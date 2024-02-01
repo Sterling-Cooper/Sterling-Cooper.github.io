@@ -1,12 +1,13 @@
 ---
 layout: default
+tags: blog
 ---
 
 ## Welcome to the first post
 
 _yay_
 
-[back](../index.html)
+[back](./index.html)
 
 ----
 
