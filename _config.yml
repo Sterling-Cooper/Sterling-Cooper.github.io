@@ -4,6 +4,6 @@ description: Reflective Learning
 
 utterances:
   repo: "Sterling-Cooper/sterling-cooper.github.io"
-  issue-term: "pathname"
-  label: "utteranc.es"
+  issue-term: "comment"
+  label: "comment"
   theme: "github-light"
