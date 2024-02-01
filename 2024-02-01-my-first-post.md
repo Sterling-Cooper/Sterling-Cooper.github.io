@@ -9,6 +9,8 @@ _yay_
 
 [back](./)
 
+&#127991; [blog](./tags_blog.html) [reflection](./tags_blog.html)
+
 ----
 
 <script src="https://utteranc.es/client.js"
