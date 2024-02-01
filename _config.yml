@@ -2,9 +2,8 @@ remote_theme: pages-themes/tactile@v0.2.0
 title: Blog
 description: Reflective Learning
 
-comments:
-  utterances:
-    repo: "sterling-cooper.github.io"
-      issue-term: "pathname"
-      label: "utteranc.es"
-      theme: "github-light"
+utterances:
+  repo: "Sterling-Cooper/sterling-cooper.github.io"
+  issue-term: "pathname"
+  label: "utteranc.es"
+  theme: "github-light"
