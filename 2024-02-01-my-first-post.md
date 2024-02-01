@@ -7,7 +7,7 @@ tags: blog
 
 _yay_
 
-[back](./index.html)
+[back](./)
 
 ----
 
