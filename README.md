@@ -1,3 +1,8 @@
+---
+layout: default
+tags: blog github-page
+---
+
 hi
 
 [Link to another page](./blog01.html).
