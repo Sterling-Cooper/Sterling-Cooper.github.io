@@ -2,6 +2,10 @@ hi
 
 [Link to another page](./blog01.html).
 
+{% for tag in page.tags %}
+    {{ tag }}
+{% endfor %}
+
 ----
 
 <script src="https://utteranc.es/client.js"
