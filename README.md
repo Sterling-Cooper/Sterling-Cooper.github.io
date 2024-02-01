@@ -1,13 +1,6 @@
----
-layout: default
-tags: blog github-page
----
-
 hi
 
 [Link to another page](./blog01.html).
-
-----
 
 <script src="https://utteranc.es/client.js"
         repo="Sterling-Cooper/sterling-cooper.github.io"
