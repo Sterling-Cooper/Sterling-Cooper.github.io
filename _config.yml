@@ -2,6 +2,8 @@ remote_theme: pages-themes/tactile@v0.2.0
 title: Blog
 description: Reflective Learning
 
+comments: true
+
 utterances:
   repo: "Sterling-Cooper/Sterling-Cooper.github.io"
   issue-term: "comment"
