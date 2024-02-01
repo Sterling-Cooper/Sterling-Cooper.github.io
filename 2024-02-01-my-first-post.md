@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [back](./)
 
-&#127991; [blog](./tags_blog.html) [reflection](./tags_blog.html)
+&#127991; [blog](./tags_blog.html) [reflection](./tags_reflection.html)
 
 ----
 
