@@ -1,6 +1,5 @@
 ---
-tags:
-- blog
+tags: blog
 ---
 
 ## Blog Post Title From First Header
