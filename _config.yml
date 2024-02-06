@@ -6,7 +6,7 @@ description: "Musings on EL6082." # This will show up in places like twitter, li
 # All of these are optional and can be removed or commented out
 email: "example@mail.com"
 twitter_username: "twitteruser"
-github_username: "githubuser"
+github_username: "Sterling-Cooper"
 linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
@@ -32,7 +32,9 @@ plugins:
 
 titles_from_headings:
   strip_title: true
-  collections: false
+  collections: true
+
+header_pages:
 
 defaults:
   - scope:
