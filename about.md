@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: Blogs I Follow
 permalink: /about/
 ---
 
-Hallo, I'm a person!
+Here are some other blogs and websites that I've found to be helpful/relevant to my learning!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+

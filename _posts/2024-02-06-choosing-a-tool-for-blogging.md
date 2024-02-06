@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first blog post
+title: Choosing a Tool for Blogging
 tags: blog github-pages
 ---
 
