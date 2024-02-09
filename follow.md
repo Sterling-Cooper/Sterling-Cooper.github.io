@@ -2,7 +2,7 @@
 layout: page
 title: Blogs I Follow
 permalink: /follow/
-comments: false
+comments: true
 ---
 
 Here are some other blogs and websites that I've found to be helpful to my learning!
@@ -18,3 +18,13 @@ Here are some other blogs and websites that I've found to be helpful to my learn
 
 
 * I often find a lot of very useful information, insights, and tips in **r/technicalwriting**: [https://www.reddit.com/r/technicalwriting/](https://www.reddit.com/r/technicalwriting/)
+
+----
+
+<script src="https://utteranc.es/client.js"
+        repo="Sterling-Cooper/sterling-cooper.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
