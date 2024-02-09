@@ -1,3 +1,11 @@
 title: "Reflective Blogging"
 author: "22150595"
 theme: "minima"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true

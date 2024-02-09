@@ -2,6 +2,7 @@
 layout: page
 title: Blogs I Follow
 permalink: /follow/
+comments: false
 ---
 
 Here are some other blogs and websites that I've found to be helpful to my learning!
