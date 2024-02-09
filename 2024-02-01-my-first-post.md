@@ -13,10 +13,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ----
 
-<script src="https://utteranc.es/client.js"
-        repo="Sterling-Cooper/sterling-cooper.github.io"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+{% include utterances.html %}
