@@ -9,3 +9,11 @@ defaults:
       type: posts
     values:
       comments: true
+
+repository: "Sterling-Cooper/sterling-cooper.github.io"
+omments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
