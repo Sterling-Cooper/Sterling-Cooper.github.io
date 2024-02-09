@@ -2,9 +2,5 @@ title: "Reflective Blogging"
 author: "22150595"
 theme: minima
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
+header_pages:
+  - follow.md
