@@ -1,6 +1,7 @@
 title: "Reflective Blogging"
 author: "22150595"
-theme: "minima"
+theme: minimal-mistakes-jekyll
+
 
 defaults:
   # _posts
