@@ -2,19 +2,9 @@ title: "Reflective Blogging"
 author: "22150595"
 theme: minima
 
-
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
       comments: true
-
-repository: "Sterling-Cooper/sterling-cooper.github.io"
-omments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light"
-    issue_term: "pathname"
-    label: "comment" # Optional - must be existing label.
