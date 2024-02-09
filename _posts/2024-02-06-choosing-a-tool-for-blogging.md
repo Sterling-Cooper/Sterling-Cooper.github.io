@@ -14,17 +14,16 @@ At first glance, potential hosts like WordPress and Google Sites seemed to fufil
 
 > "GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website" (About GitHub Pages n.d.).
 
-This immediately appealed to me because I’m familiar with Github $^1$, Markdown $^2$, and I have a longstanding wish to learn more about the docs-as-code $^3$ mindset. Intrigued, I decided to dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I had my very own website!
+This immediately appealed to me because I’m familiar with Github &#185;, Markdown &#178;, and I have a longstanding wish to learn more about the docs-as-code &#179; mindset. Intrigued, I decided to dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I had my very own website!
 
-![Image of Hello World stub blog](../_assets/hello-world.png)
 
-![Image of Hello World stub blog](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/_assets/hello-world.png?raw=true)
+![Image of Hello World stub blog](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/hello-world.png?raw=true)
 
 ## Selecting a theme
 
 Encouraged, I ventured a little further down the rabbit hole. The next item on my to-do list was to write out a full list of requirements for the site. Of course, I completely ignored this step and started giddily playing with the array of pre-built [themes](https://pages.github.com/themes/).
 
-![GIF image showing all the pre-built themes](../_assets/pages-themes.gif)
+![GIF image showing all the pre-built themes](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-themes.gif?raw=true)
 
 An unspecified amount of time disappeared before I settled on [Minima](https://github.com/jekyll/minima). As the name suggests, it’s simple, clean, and has a familiar layout that is in keeping with other popular technical writing blogs. 
 
@@ -179,39 +178,32 @@ sterling-cooper.github.io
 
 Final scare notwithstanding, this was actually quite a fun exercise. In an existence increasingly dominated by meetings, it was great to dust off the coding side of my brain and try solve a few problems!
 
-The Continuous Integration $^4$ aspect of building Github Pages is really interesting, and I've only just scratched the surface. Definitely something I will keep building on beyond this assignment!
+The Continuous Integration &#8308; aspect of building Github Pages is really interesting, and I've only just scratched the surface. Definitely something I will keep building on beyond this assignment!
 
 ## Footnotes
 
-$^1$ Github is a popular code sharing and collaboration service owned by Mircosoft (Lardinois and Lunden 2018).
+&#185; Github is a popular code sharing and collaboration service owned by Mircosoft (Lardinois and Lunden 2018).
 
-$^2$ Markdown is a text-to-HTML conversion tool for web writers. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions (Gruber 2004). 
+&#178; Markdown is a text-to-HTML conversion tool for web writers. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions (Gruber 2004). 
 
-$^3$ Docs-as-code is a way to integrate development and documentation teams and produce high-quality documentation for software products.
+&#179; Docs-as-code is a way to integrate development and documentation teams and produce high-quality documentation for software products.
 
-$^4$ Continuous Integration is a software development practice where each member of a team merges their changes into a codebase together, and all of these merges are verified by an automated build (including test) to detect integration errors as quickly as possible (Fowler 2004).
+&#8308; Continuous Integration is a software development practice where each member of a team merges their changes into a codebase together, and all of these merges are verified by an automated build (including test) to detect integration errors as quickly as possible (Fowler 2004).
 
 ## References
 
 _About Github Pages_ (n.d.) docs.github.com, available:
-https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages [accessed 10 Feb 2024].
+[https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) [accessed 10 Feb 2024].
 
-Fowler, M. (2004) _Continuous Integration_, martinfowler.com, https://martinfowler.com/articles/continuousIntegration.html [accessed 10 Feb 2024].
+Fowler, M. (2004) _Continuous Integration_, martinfowler.com, [https://martinfowler.com/articles/continuousIntegration.html](https://martinfowler.com/articles/continuousIntegration.html) [accessed 10 Feb 2024].
 
 Gentle, A. (2022) _Docs Like Code: Collaborate and Automate to Improve Technical Documentation_, 3rd ed., Austin: Lulu.
 
-Gruber, J. (2004) _Markdown_, Daring Fireball, available: https://daringfireball.net/projects/markdown/ [accessed 10 Feb 2024].
+Gruber, J. (2004) _Markdown_, Daring Fireball, available: [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/) [accessed 10 Feb 2024].
 
-_Jekyll_ (n.d.) github.com, available: https://github.com/jekyll/jekyll [accessed 10 Feb 2024].
+_Jekyll_ (n.d.) github.com, available: [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) [accessed 10 Feb 2024].
 
-Lardinois, F. and Lunden, I. (2018) _Microsoft has acquired GitHub for $7.5B in stock_, TechCrunch, available: https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/ [accessed 10 Feb 2024].
+Lardinois, F. and Lunden, I. (2018) _Microsoft has acquired GitHub for $7.5B in stock_, TechCrunch, available: [https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/) [accessed 10 Feb 2024].
 
-Preston-Werner, T. (2008) _Blogging Like a Hacker_, tom.preston-werner.com, available: https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html [accessed 10 Feb 2024].
+Preston-Werner, T. (2008) _Blogging Like a Hacker_, tom.preston-werner.com, available: [https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) [accessed 10 Feb 2024].
 
-  <script src="https://utteranc.es/client.js"
-          repo="Sterling-Cooper/sterling-cooper.github.io"
-          issue-term="title"
-          theme="github-light"
-          crossorigin="anonymous"
-          async>
-  </script>
