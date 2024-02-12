@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Choosing a Tool for Blogging
-tags: github-pages
+tags: github-pages jekyll
 ---
-
-# Choosing a Tool for Blogging
 
 Choosing the medium for my reflective blog turned into an unexpectedly fun exercise, and an interesting subject for my first post! Rather than present an exhaustive technical guide, what follows are some notes on how the blog evolved and what I learned from the process.
 
@@ -17,7 +15,7 @@ At first glance, potential hosts like WordPress and Google Sites seemed to fufil
 This immediately appealed to me because I’m familiar with Github &#185;, Markdown &#178;, and I have a longstanding wish to learn more about the docs-as-code &#179; mindset. Github Pages presented an opportunity to dabble with all three. Intrigued, I decided to dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I had my very own website!
 
 
-![PNG image illustrating the Hello World stub index page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/hello-world.png?raw=true)
+![PNG image illustrating the Hello World stub index page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-hello.png?raw=true)
 
 ## Selecting a theme
 
@@ -35,7 +33,6 @@ To get this far, I only needed a page for my "Hello World" markdown (`index.md`)
 
 ##### Blog root directory:
 ```
-sterling-cooper.github.io
 ├── _config.yml
 ├── index.md
 ```
@@ -54,7 +51,6 @@ At this point it became clear to me just how much blogging is baked into Jekyll,
 
 ##### Blog root directory:
 ```
-sterling-cooper.github.io
 ├── _posts
     └── 2024-02-06-choosing-a-tool-for-blogging.md
 ├── _config.yml
@@ -63,7 +59,7 @@ sterling-cooper.github.io
 
 ## Comments
 
-The next thing I noticed was that commenting on posts is not supported out-of-the box, and it was not immediately obvious to me how to allow readers to add a comment under the article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned link, I realised that I needed to add a little bit of code to each post:
+The next thing I noticed was that commenting on posts is not supported out-of-the box, and it was not immediately obvious to me how to allow readers to add a comment under each article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned link, I realised that I needed to add a little bit of code to each post:
 ```
 <script src="https://utteranc.es/client.js"
         repo="Sterling-Cooper/sterling-cooper.github.io"
@@ -73,11 +69,10 @@ The next thing I noticed was that commenting on posts is not supported out-of-th
         async>
 </script>
 ```
-Rather than add this block of code to each individual page (and risk forgetting to do so), I wanted to enable these comments on all blog posts. The Minima theme's default scaffolding is kept in the [`_layouts` directory](https://github.com/jekyll/minima#layouts). By creating my own `post.html` in `_layouts`, I was able to define a default arrangement for each post that includes this code.
+Rather than add this block of code to each individual page (and risk forgetting to do so), I wanted to enable these comments on all blog posts. The Minima theme's default scaffolding is kept in the [`_layouts` directory](https://github.com/jekyll/minima#layouts). By creating my own version of `post.html` in `_layouts`, I was able to define a default arrangement for each post that includes this code.
 
 ##### Blog root directory:
 ```
-sterling-cooper.github.io
 ├── _layouts
     └── post.html
 ├── _posts
@@ -85,7 +80,8 @@ sterling-cooper.github.io
 ├── _config.yml
 ├── index.md
 ```
-This allows the user to leave a comment on each post, with the small caveat that they must already logged be into Github—registration is free, no catch! The comments appear as issues in the Github repository, which I can also delete, effectively allowing the owner to moderate the discussion, which I see as a plus. 
+
+This allows the user to leave a comment on each post, with the small caveat that they must already logged be into Github. The comments appear as issues in the Github repository, which I can also delete, effectively allowing the owner to moderate the discussion, which I see as a plus. 
 
 ![GIF image illustrating how utterances comments can be managed as Github issues](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-comments.gif?raw=true)
 
@@ -95,49 +91,14 @@ This allows the user to leave a comment on each post, with the small caveat that
 
 Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I initially experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I realised there is a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs and linking it in the header gives the list its own space and keeps it discoverable.
 
-##### Blog root directory:
-```
-sterling-cooper.github.io
-├── _layouts
-    └── post.html
-├── _posts
-    └── 2024-02-06-choosing-a-tool-for-blogging.md
-├── _config.yml
-├── index.md
-├── follow.md
-```
-
 ![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-follow.png?raw=true)
 
-## Bells and whistles
-
-At this point I was optimistic that Github Pages was going to meet the core requirements of the assignment. And since I had now tumbled all the way down the rabbit hole, I decided to lean into the other features of a blog. 
-
-
-The theme shipped with an RSS
-
-
-
-All pages are going to include some common components, which can be grouped in a directory called `_includes`. 
-
-Most obviously, each page in the blog should have a header that displays the title of the blog and contain some information about how the page is displayed — `head.html`.
-
-Once a user has clicked on a post, many blogs allow the user to allow the user to share the blog through email or social media  — `sharelinks.html`.
-
-It’s also common for blogs to skip forward to the previous/next blog in chronological order — `navlinks.html`. These links will require a little extra formatting, which can done by tweaking the css — `css/override.css`.
 ##### Blog root directory:
 ```
-sterling-cooper.github.io
-├── _includes
-    └── head.html
-    └── navlinks.html
-    └── sharelinks.html
 ├── _layouts
     └── post.html
 ├── _posts
     └── 2024-02-06-choosing-a-tool-for-blogging.md
-├── css
-    └── override.css 
 ├── _config.yml
 ├── index.md
 ├── follow.md
@@ -147,22 +108,34 @@ sterling-cooper.github.io
 
 > _“Assumptions are dangerous things to make, and like all dangerous things to make, bombs, for instance, or strawberry shortcake, if you make even the tiniest mistake you can find yourself in terrible trouble.”_ – Lemony Snicket (Handler 2000)
 
-Up to this point I assumed that adding categories or tags to organise blog posts would be trivial. A failed attempt to "enable" tags was followed by an increasingly panicked websearch, and eventually the inescapable conclusion that such a thing is not supported by Github Pages. The blood only started to return to my face when I discovered this wonderful post on [how to implement Jekyll tags on Github Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this I learn that I needed to collect all the tags from my site into a list called `site.tags`. This tag gathering is defined in `collecttags.html`. By calling `collecttags` from my own `custom-head.html`, this collection is neatly added to the `<head>` tag for each page. Phew!
+Up to this point I assumed that adding categories or tags to organise blog posts would be trivial. A failed attempt to simply "enable" tags was followed by an increasingly panicked websearch, and eventually the inescapable conclusion that tags are not supported by Github Pages. The blood only started to return to my face when I discovered this wonderful post on [how to implement Jekyll tags on Github Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this I learned that I needed to add the tags for each blog to the post's "front matter". Front matter is a way to set variables for the page (Deployment n.d.).
 
-Once the list of tags is known, they can be displayed at the bottom of each post by adding that section to `_layouts/post.html`. Each tag needs a corresponding markdown file, and these will be collected in the `tag` directory.
+##### Example front matter:
+```
+---
+layout: post
+title: Choosing a Tool for Blogging
+tags: github-pages
+--- 
+```
 
-When a user clicks the link on a tag, they will expect a different layout to a regular post. `_layouts/tagpage.html` describes a clean page with a list of relevant blog posts, without the extra bells and whistles of a regular blog post.
+All of the tags in my site need to be collected into a list called `site.tags`. This tag gathering is defined in `_includes/collect-tags.html`. By calling `collect-tags` from my own `custom-head.html`, this collection is neatly added to the `<head>` HTML tag for each page. This was where my coding rustiness really showed through. I made numerous clumsy attempts to edit `<head>` directly via `head.html`. It was only through the act of writing this blog post that I really understood tag collection and thus added `custom-head.html`. Reflective blogging, it works!
+
+Once the list of tags is known, they are displayed at the bottom of each post by once again editing the default post layout in `_layouts/post.html`. I chose to enclose the tags between two square brackets (`[ tag ]`). Each tag needs a corresponding markdown file, and these are collected in the `tag` directory.
+
+When a user clicks the link on a tag, they will expect a different layout to a regular post. `_layouts/tag-page.html` describes a clean page with a list of relevant blog posts, without the extra bells and whistles of a regular blog post. This is essentially a form of "Blog Archive", and it's content is defined in `archive.md`.
 
 ![GIF image illustrating the presentation of blog tags](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-tags.gif?raw=true)
 
 > **&#9745; Requirement:** Include a Categories or Tags widget to organise blog posts.
 
+Simple, right? Well, not really! I can honestly say that the first version of this blog was not so tidy. 
+
 The final root directory for the prototype blog:
 ##### Blog root directory:
 ```
-sterling-cooper.github.io
 ├── _includes
-    └── collecttags.html
+    └── collect-tags.html
     └── custom-head.html
     └── utterances.html
 ├── _layouts
@@ -185,7 +158,9 @@ Final scare notwithstanding, this was actually quite a fun exercise. In an exist
 
 The most interesting part of this to me is how the act of writing forced me to grapple with the subject matter more deeply. There's a version of this story where I Frankenstein some pieces of code together and the site works about the same as it does now. But sitting down to explain the blog's evaolution forced me to solidify my thoughts and ultimately meant that I understand the different elements much better than I would have otherwise.
 
-My secocond big takeaway is to always stick to the assignment brief. While the motivation for choosing this path was to explore some new aspects of documentation, I made a mistake in getting too sidetracked by non-essential features. It took me a couple of hours to backtrack those changes and make sure the tags and comments worked together.
+My second big takeaway is to always stick to the assignment brief. While the motivation for choosing this path was to explore some new aspects of documentation, I made a mistake in getting too sidetracked by non-essential features. It took me a couple of hours to backtrack those changes and make sure the tags and comments worked together.
+
+Github Pages and Jekyll are powerful blogging tools and a really interesting community has developed around it. Since writing this I've noticed some of it's calling cards in other blogs, like [in the source for https://idratherbewriting.com/](https://github.com/tomjoht/tomjoht.github.io) 
 
 The Continuous Integration &#8308; aspect of building Github Pages is really interesting, and I've only just scratched the surface. Definitely something I will keep building on beyond this assignment!
 
@@ -203,6 +178,10 @@ The Continuous Integration &#8308; aspect of building Github Pages is really int
 
 _About Github Pages_ (n.d.) docs.github.com, available:
 [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) [accessed 10 Feb 2024].
+
+_Deployment_ (n.d.) jekyllrb.com, available:
+[https://jekyllrb.com/docs/front-matter/](https://jekyllrb.com/docs/front-matter/) [accessed 10 Feb 2024].
+
 
 Fowler, M. (2004) _Continuous Integration_, martinfowler.com, [https://martinfowler.com/articles/continuousIntegration.html](https://martinfowler.com/articles/continuousIntegration.html) [accessed 10 Feb 2024].
 
