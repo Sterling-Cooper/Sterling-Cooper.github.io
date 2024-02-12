@@ -119,17 +119,15 @@ tags: github-pages
 --- 
 ```
 
-All of the tags in my site need to be collected into a list called `site.tags`. This tag gathering is defined in `_includes/collect-tags.html`. By calling `collect-tags` from my own `custom-head.html`, this collection is neatly added to the `<head>` HTML tag for each page. This was where my coding rustiness really showed through. I made numerous clumsy attempts to edit `<head>` directly via `head.html`. It was only through the act of writing this blog post that I really understood tag collection and thus added `custom-head.html`. Reflective blogging, it works!
+All of the tags in my site need to be collected into a list called `site.tags`. This tag gathering is defined in `_includes/collect-tags.html`. By calling `collect-tags` from my own `custom-head.html`, this collection is neatly added to the `<head>` HTML tag for each page. This was where my coding rustiness really showed. I made numerous clumsy attempts to edit `<head>` directly. It was only through the act of writing this blog post that I really understood tag collection. It forced me to re-read the ([Minima help file](https://github.com/jekyll/minima) and thus added `custom-head.html`. Reflective blogging, it works!
 
-Once the list of tags is known, they are displayed at the bottom of each post by once again editing the default post layout in `_layouts/post.html`. I chose to enclose the tags between two square brackets (`[ tag ]`). Each tag needs a corresponding markdown file, and these are collected in the `tag` directory.
+Once the list of tags is known, they are displayed at the bottom of each post by once again editing the default post layout in `_layouts/post.html`. I chose to enclose the tags between two square brackets (`[ tag ]`) for clarity. Each tag needs a corresponding markdown file, and these are collected in the `tag` directory.
 
-When a user clicks the link on a tag, they will expect a different layout to a regular post. `_layouts/tag-page.html` describes a clean page with a list of relevant blog posts, without the extra bells and whistles of a regular blog post. This is essentially a form of "Blog Archive", and it's content is defined in `archive.md`.
+When a user clicks the link on a tag, they will expect a different layout to a regular post. `_layouts/tag-page.html` describes a clean page with a list of tagged blog posts, without the extra bells and whistles of a regular blog post. This is essentially a form of "Blog Archive", and it's content is defined in `archive.md`.
 
 ![GIF image illustrating the presentation of blog tags](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-tags.gif?raw=true)
 
 > **&#9745; Requirement:** Include a Categories or Tags widget to organise blog posts.
-
-Simple, right? Well, not really! I can honestly say that the first version of this blog was not so tidy. 
 
 The final root directory for the prototype blog:
 ##### Blog root directory:
@@ -154,13 +152,13 @@ The final root directory for the prototype blog:
 
 ## Conclusions
 
-Final scare notwithstanding, this was actually quite a fun exercise. In an existence increasingly dominated by meetings, it was great to dust off the coding side of my brain and try solve a few problems!
+Final scare notwithstanding, this was actually quite a fun exercise. In an existence increasingly dominated by meetings, it was great to dust off the coding side of my brain and try to solve a few problems!
 
-The most interesting part of this to me is how the act of writing forced me to grapple with the subject matter more deeply. There's a version of this story where I Frankenstein some pieces of code together and the site works about the same as it does now. But sitting down to explain the blog's evaolution forced me to solidify my thoughts and ultimately meant that I understand the different elements much better than I would have otherwise.
+The most striking part of this is how the act of writing forced me to grapple with the subject matter more deeply. There's a version of this story where I "Frankenstein" some pieces of code together and the site works about the same as it does now. But sitting down to explain the blog's evaolution forced me to solidify my thoughts and ultimately meant that I understand the different elements much better than I would have otherwise.
 
-My second big takeaway is to always stick to the assignment brief. While the motivation for choosing this path was to explore some new aspects of documentation, I made a mistake in getting too sidetracked by non-essential features. It took me a couple of hours to backtrack those changes and make sure the tags and comments worked together.
+My second big takeaway is to always stick to the assignment brief. While the motivation for choosing this path was to explore some new aspects of documentation, I made a mistake in getting too sidetracked by non-essential features. Making sure the core requirements of tags and comments were in place should have been my top priority.
 
-Github Pages and Jekyll are powerful blogging tools and a really interesting community has developed around it. Since writing this I've noticed some of it's calling cards in other blogs, like [in the source for https://idratherbewriting.com/](https://github.com/tomjoht/tomjoht.github.io) 
+Github Pages and Jekyll are powerful blogging tools and a really interesting community has developed around them. Since writing this I've noticed some of the calling cards in other blogs, notably [in the code for https://idratherbewriting.com/](https://github.com/tomjoht/tomjoht.github.io).
 
 The Continuous Integration &#8308; aspect of building Github Pages is really interesting, and I've only just scratched the surface. Definitely something I will keep building on beyond this assignment!
 
