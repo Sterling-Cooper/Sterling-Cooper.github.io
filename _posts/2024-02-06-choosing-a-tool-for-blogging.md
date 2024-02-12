@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing a Tool for Blogging
-tags: blog github-pages
+tags: github-pages
 ---
 
 # Choosing a Tool for Blogging
@@ -29,11 +29,11 @@ An unspecified amount of time disappeared before I settled on [Minima](https://g
 
 ## Building with Jekyll
 
-Each of these themes is powered by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll), a simple, blog-aware, static site generator (Jekyll n.d.). Simplicity is the key term here. Tom Preston-Werner (2008) created Jekyll to keep the complexity of blogging to an absolute minimum. Jekyll takes content written in markdown, mixes in any user-defined configuration settings, and generates a complete static website, ready to be served. GitHub Pages serves the website directly from my GitHub repository so that I don’t have to deal with any hosting.
+Each of these themes is powered by [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll), a simple, blog-aware, static site generator (Jekyll n.d.). Simplicity is the key term here. Tom Preston-Werner (2008) created Jekyll to keep the complexity of blogging to an absolute minimum. Jekyll takes content written in Markdown and mixes in any user-defined configuration settings to generate a complete static website, ready to be served. GitHub Pages serves the website directly from my GitHub repository so that I don’t have to deal with any hosting.
 
 To get this far, I only needed a page for my "Hello World" markdown (`index.md`) and my own configuration file (`_config.yml`).
 
-###### Blog root directory:
+##### Blog root directory:
 ```
 sterling-cooper.github.io
 ├── _config.yml
@@ -44,21 +44,19 @@ The `_config.yml` couldn't be simpler, its only entry was to specify the theme:
 theme: "minima"
 ```
 
-Now, about those requirements!
+Now, about those requirements! By setting my repository to be “public”, the website is viewable on the open internet. And the `index.md` serves as a home page for the blog.
 
 > **&#9745; Requirement:** The blog needs to be accessible to my instructor.
-By setting my repository to be “public”, the website is viewable on the open internet.
 
 > **&#9745; Requirement:** The blog needs to have a landing page.
-My prototype has an index.md that serves as a home page for the blog.
 
 That’s a nice start, but it’s not much of a blog without posts!
 
 ## Creating a blog post
 
-I quickly realised that blogging really is baked into Jekyll, because all I needed to do to post my first blog was create a directory called `_posts` and add a new file to it called `2024-02-06-choosing-a-tool-for-blogging.md`. This filename format is important for Jekyll to recognise the file as a post. More details [here](https://jekyllrb.com/docs/posts/).
+At this point it became clear just how much blogging is baked into Jekyll, because all I needed to do to post my first blog was create a directory called `_posts` and add a new file to it called `2024-02-06-choosing-a-tool-for-blogging.md`. This filename format is important for Jekyll to recognise the file as a post. More details [here](https://jekyllrb.com/docs/posts/).
 
-###### Blog root directory:
+##### Blog root directory:
 ```
 sterling-cooper.github.io
 ├── _posts
@@ -69,7 +67,7 @@ sterling-cooper.github.io
 
 ## Comments
 
-Commenting on posts is not supported out-of-the box, and it was not immediately obvious to me how to allow readers to comment. A little webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, a **lot** of help from the aforementioned link, I realise that I need to add a little bit of code to each post:
+Commenting on posts is not supported out-of-the box, and it was not immediately obvious to me how to allow readers to add a comment under the article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned link, I realise that I need to add a little bit of code to each post:
 ```
 <script src="https://utteranc.es/client.js"
         repo="Sterling-Cooper/sterling-cooper.github.io"
@@ -79,8 +77,8 @@ Commenting on posts is not supported out-of-the box, and it was not immediately 
         async>
 </script>
 ```
-Rather than do this for each individual page, I experimented with creating a `_layouts` directory and adding a default arrangement for each post that will include this snippet.
-###### Blog root directory:
+Rather than add this block of code to each individual page (and risk forgetting to do so), I wanted to enable these comments on all blog posts. The Minima theme's default scaffolding is kept in the [`_layouts` directory](https://github.com/jekyll/minima#layouts). By creating my own `post.html` in `_layouts`, I can define a default arrangement for each post that will include this code.
+##### Blog root directory:
 ```
 sterling-cooper.github.io
 ├── _layouts
@@ -97,7 +95,7 @@ This allows the user to leave a comment on each post, with the small caveat that
 ## Blogs I Follow
 
 Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I initially experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I realised there is a setting to add a page to the permanent header. Creating a new page for the list of blogs and linking it in the header gives the list its own space and keeps it discoverable. All I needed to do was create a page (`follow.md`) and add it to the `_config.yml` under `header_pages`:
-###### Blog root directory:
+##### Blog root directory:
 ```
 sterling-cooper.github.io
 ├── _layouts
@@ -122,7 +120,7 @@ Most obviously, each page in the blog should have a header that displays the tit
 Once a user has clicked on a post, many blogs allow the user to allow the user to share the blog through email or social media  — `sharelinks.html`.
 
 It’s also common for blogs to skip forward to the previous/next blog in chronological order — `navlinks.html`. These links will require a little extra formatting, which can done by tweaking the css — `css/override.css`.
-###### Blog root directory:
+##### Blog root directory:
 ```
 sterling-cooper.github.io
 ├── _includes
@@ -153,7 +151,7 @@ When a user clicks the link on a tag, they will expect a different layout to a r
 > **&#9745; Requirement:** Include a Categories or Tags widget to organise blog posts.
 
 The final root directory for the prototype blog:
-###### Blog root directory:
+##### Blog root directory:
 ```
 sterling-cooper.github.io
 ├── _includes
