@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing a Tool for Blogging
-tags: github-pages jekyll
+tags: github-pages
 ---
 
 Choosing the medium for my reflective blog turned into an unexpectedly fun exercise, and an interesting subject for my first post! Rather than present an exhaustive technical guide, what follows are some notes on how the blog evolved and what I learned from the process.
@@ -59,7 +59,7 @@ At this point it became clear to me just how much blogging is baked into Jekyll,
 
 ## Comments
 
-The next thing I noticed was that commenting on posts is not supported out-of-the box, and it was not immediately obvious to me how to allow readers to add a comment under each article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned link, I realised that I needed to add a little bit of code to each post:
+The next thing I noticed was that commenting on posts is not supported out-of-the box. Nor was it immediately obvious to me how to allow readers to add a comment under each article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned link, I realised that I needed to add a little bit of code to each post:
 ```
 <script src="https://utteranc.es/client.js"
         repo="Sterling-Cooper/sterling-cooper.github.io"
@@ -69,7 +69,7 @@ The next thing I noticed was that commenting on posts is not supported out-of-th
         async>
 </script>
 ```
-Rather than add this block of code to each individual page (and risk forgetting to do so), I wanted to enable these comments on all blog posts. The Minima theme's default scaffolding is kept in the [`_layouts` directory](https://github.com/jekyll/minima#layouts). By creating my own version of `post.html` in `_layouts`, I was able to define a default arrangement for each post that includes this code.
+Rather than add this block of code to each individual page (and risk forgetting to do so), I wanted to enable these comments on all blog posts. The Minima theme's default scaffolding is specified in the [`_layouts` directory](https://github.com/jekyll/minima#layouts). By creating my own version of `post.html` in `_layouts`, I was able to define a default arrangement for each post that includes this code.
 
 ##### Blog root directory:
 ```
@@ -81,7 +81,7 @@ Rather than add this block of code to each individual page (and risk forgetting 
 ├── index.md
 ```
 
-This allows the user to leave a comment on each post, with the small caveat that they must already logged be into Github. The comments appear as issues in the Github repository, which I can also delete, effectively allowing the owner to moderate the discussion, which I see as a plus. 
+This allows the user to leave a comment on each post, with the small caveat that they must already logged be into Github. The comments appear as issues in the Github repository. The owner is able to delete any issues, effectively allowing me to moderate the discussion, which I see as a plus. 
 
 ![GIF image illustrating how utterances comments can be managed as Github issues](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-comments.gif?raw=true)
 
@@ -89,9 +89,9 @@ This allows the user to leave a comment on each post, with the small caveat that
 
 ## Blogs I Follow
 
-Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I initially experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I realised there is a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs and linking it in the header gives the list its own space and keeps it discoverable.
+Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I realised there is a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs and linking it in the header gives the list its own space and keeps it discoverable.
 
-![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-follow.png?raw=true)
+![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-following.png?raw=true)
 
 ##### Blog root directory:
 ```
@@ -175,21 +175,21 @@ The Continuous Integration &#8308; aspect of building Github Pages is really int
 ## References
 
 _About Github Pages_ (n.d.) docs.github.com, available:
-[https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) [accessed 13 Feb 2024].
+[https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) [accessed 12 Feb 2024].
 
 _Deployment_ (n.d.) jekyllrb.com, available:
-[https://jekyllrb.com/docs/front-matter/](https://jekyllrb.com/docs/front-matter/) [accessed 13 Feb 2024].
+[https://jekyllrb.com/docs/front-matter/](https://jekyllrb.com/docs/front-matter/) [accessed 12 Feb 2024].
 
-Fowler, M. (2004) _Continuous Integration_, martinfowler.com, [https://martinfowler.com/articles/continuousIntegration.html](https://martinfowler.com/articles/continuousIntegration.html) [accessed 13 Feb 2024].
+Fowler, M. (2004) _Continuous Integration_, martinfowler.com, [https://martinfowler.com/articles/continuousIntegration.html](https://martinfowler.com/articles/continuousIntegration.html) [accessed 12 Feb 2024].
 
 Gentle, A. (2022) _Docs Like Code: Collaborate and Automate to Improve Technical Documentation_, 3rd ed., Austin: Lulu.
 
-Gruber, J. (2004) _Markdown_, Daring Fireball, available: [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/) [accessed 13 Feb 2024].
+Gruber, J. (2004) _Markdown_, Daring Fireball, available: [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/) [accessed 12 Feb 2024].
 
-_Jekyll_ (n.d.) github.com, available: [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) [accessed 13 Feb 2024].
+_Jekyll_ (n.d.) github.com, available: [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) [accessed 12 Feb 2024].
 
 Handler, D. (2000) _The Austere Academy_, New York: HarperCollins.
 
-Lardinois, F. and Lunden, I. (2018) _Microsoft has acquired GitHub for $7.5B in stock_, TechCrunch, available: [https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/) [accessed 13 Feb 2024].
+Lardinois, F. and Lunden, I. (2018) _Microsoft has acquired GitHub for $7.5B in stock_, TechCrunch, available: [https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/) [accessed 12 Feb 2024].
 
-Preston-Werner, T. (2008) _Blogging Like a Hacker_, tom.preston-werner.com, available: [https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) [accessed 13 Feb 2024].
+Preston-Werner, T. (2008) _Blogging Like a Hacker_, tom.preston-werner.com, available: [https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html](https://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) [accessed 12 Feb 2024].
