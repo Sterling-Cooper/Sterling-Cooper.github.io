@@ -58,7 +58,7 @@ At this point it became clear to me just how much blogging is baked into Jekyll,
 
 ## Comments
 
-Next, I noticed that commenting on posts is not supported out-of-the-box. Nor was it immediately apparent to me how to allow readers to add a comment under each article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned link, I realised that I needed to add a little bit of code to each post (`_includes/utterances.html`):
+Next, I noticed that commenting on posts is not supported out-of-the-box. Nor was it immediately apparent to me how to allow readers to add a comment under each article. Some webcrawling led me to [this helpful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, and a **lot** of help from the aforementioned helpful post, I learned that I needed to add a little bit of code to each post (see [`_includes/utterances.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_includes/utterances.html)):
 ```
 <script src="https://utteranc.es/client.js"
         repo="Sterling-Cooper/sterling-cooper.github.io"
@@ -90,7 +90,7 @@ This allows the user to leave a comment on each post, with the small caveat that
 
 ## Blogs I follow
 
-Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I realised there is a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs (`follow.md`) and linking it in the header gives the list its own space and keeps it discoverable.
+Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I found a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs (see [`follow.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/follow.md)) and linking it in the header gives the list its own space and keeps it discoverable.
 
 ![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-following.png?raw=true)
 
@@ -111,7 +111,7 @@ Within the blog, I should be able to build up a list of links to other blogs and
 
 > _“Assumptions are dangerous things to make, and like all dangerous things to make, bombs, for instance, or strawberry shortcake, if you make even the tiniest mistake you can find yourself in terrible trouble.”_ – Lemony Snicket (Handler 2000)
 
-Up to this point I assumed that adding categories or tags to organise blog posts would be trivial. A failed attempt to simply "enable" tags was followed by an increasingly panicked websearch, and eventually the inescapable conclusion that tags are not supported by Github Pages. The blood only started to return to my face when I discovered this wonderful post on [how to implement Jekyll tags on Github Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this I learned that I needed to add the tags for each blog to the post's "front matter". Front matter is a way to set variables for each page (Deployment n.d.).
+Up to this point I assumed that adding categories or tags to organise blog posts would be trivial. A failed attempt to simply "enable" tags was followed by an increasingly panicked websearch, and eventually the inescapable conclusion that tags are not supported by Github Pages. The blood only started to return to my face when I discovered a wonderful post on [how to implement Jekyll tags on Github Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this I learned that I needed to add the tags for each blog to the post's "front matter". Front matter is a way to set variables for each page (Deployment n.d.).
 
 ##### Example front matter:
 ```
@@ -122,11 +122,11 @@ tags: github-pages
 --- 
 ```
 
-All of the tags in my site must be collected into a list called `site.tags` (see `_includes/collect-tags.html`). The order of events is important. The tags must be collected before they can be used, so this needs to happen early in the page construction. By calling `collect-tags` from my own `custom-head.html`, this collection is neatly added to the `<head>` HTML element for each page and ensures the correct order of events. This was where my coding rustiness really showed. I made numerous clumsy attempts to edit `<head>` directly, occasionally breaking the site in strange and exciting ways. It was only through the act of writing this blog post that I really came to understand the correct sequence of events. It also forced me to re-read the [Minima help file](https://github.com/jekyll/minima) where I learned about the `custom-head.html` option. Reflective writing, it works!
+All of the tags in my site must be collected into a list called `site.tags` (see [`_includes/collect-tags.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_includes/collect-tags.html)). The order of events is important. The tags must be collected before they can be used, so this needs to happen early in the page construction. By calling `collect-tags` from my own [`custom-head.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_includes/custom-head.html), this collection is neatly added to the `<head>` HTML element for each page and ensures the correct order of events. This was where my coding rustiness really showed. I made numerous clumsy attempts to edit `<head>` directly, occasionally breaking the site in strange and exciting ways. It was only through the act of writing this blog post that I really came to understand the correct sequence of events. It also forced me to re-read the [Minima help file](https://github.com/jekyll/minima) where I learned about the `custom-head.html` option. Reflective writing, it works!
 
-Now that the list of tags is known, they can be displayed at the bottom of each post by once again editing the default post layout in `_layouts/post.html`. I chose to enclose the tags between two square brackets (`[ tag ]`) for clarity. Each tag needs a corresponding markdown file, and these are collected in the `tag` directory.
+Now that the list of tags is known, they can be displayed at the bottom of each post by once again editing the default post layout in [`_layouts/post.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_layouts/post.html). I chose to enclose the tags between two square brackets (`[ tag ]`) for clarity. Each tag needs a corresponding markdown file, and these are collected in the `tag` directory.
 
-When a user clicks the link on a tag, they will expect a different layout to a regular post. `_layouts/tag-page.html` describes a clean page with a list of tagged blog posts, without the extra bells and whistles of a regular blog post. This is essentially a form of "Blog Archive", and its content is defined in `archive.md`.
+When a user clicks the link on a tag, they will expect a different layout to a regular post. [`_layouts/tag-page.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_layouts/tag-page.html) describes a clean page with a list of tagged blog posts, without the extra bells and whistles of a regular blog post. This is essentially a form of "Blog Archive", and its content is defined in [`archive.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/archive.md).
 
 ![GIF image illustrating the presentation of blog tags](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-tags.gif?raw=true)
 
