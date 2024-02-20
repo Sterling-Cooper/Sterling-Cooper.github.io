@@ -58,7 +58,7 @@ Over the course of the COIL project, it was hard for me to separate the potentia
 
 ##### Figure 3: Demonstration of the Apple Vision Pro (Apple 2024).
 
-![PNG image illustrating an Apple Vision Pro user](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-avp?raw=true)
+![PNG image illustrating an Apple Vision Pro user](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-avp.png?raw=true)
 
 ## References
 
