@@ -10,13 +10,13 @@ As part of this semester's E-learning Theories and Practices module, I was promp
 
 I must admit that until now I have been using the term “virtual reality” to sweepingly refer to all these experiences. I now know how inaccurate that is, so it has been enlightening for me to parse the differences:
 
-* **VR** implies a level of immersion that shuts out the physical world. VR generates a completely artificial computer-simulated image and environment with real-time interaction (Khor _et al._ 2016). Examples of VR include [Oculus Quest](https://www.oculus.com/quest/refurbished/), [HTC Vive](https://www.vive.com/us/product/vive-pro2/overview/), and [PlayStation VR](https://www.playstation.com/en-us/ps-vr/).
+* **Virtual Reality (VR)** implies a level of immersion that shuts out the physical world. VR generates a completely artificial computer-simulated image and environment with real-time interaction (Khor _et al._ 2016). Examples of VR include [Oculus Quest](https://www.oculus.com/quest/refurbished/), [HTC Vive](https://www.vive.com/us/product/vive-pro2/overview/), and [PlayStation VR](https://www.playstation.com/en-us/ps-vr/).
 
-* **AR** describes a layer of digital content overlaid on top of the real, physical world in real time (Brigham 2017). Some familiar examples of AR are [Meta’s Smart Glasses](https://www.meta.com/us/smart-glasses/) and the [Pokémon GO](https://pokemongolive.com/?hl=en) app on a smartphone or tablet.
+* **Augmented Reality (AR)** describes a layer of digital content overlaid on top of the real, physical world in real time (Brigham 2017). Some familiar examples of AR are [Meta’s Smart Glasses](https://www.meta.com/us/smart-glasses/) and the [Pokémon GO](https://pokemongolive.com/?hl=en) app on a smartphone or tablet.
 
-* **MR** combines elements of both VR and AR to allow a person to see the real, physical world but also see believable, and even responsive, virtual objects. Virtual objects are anchored to a point in the real world, and this sensation of depth and perspective separates MR from AR (Brigham 2017). The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) is an example of a mixed reality device.
+* **Mixed Reality (MR)** combines elements of both VR and AR to allow a person to see the real, physical world but also see believable, and even responsive, virtual objects. Virtual objects are anchored to a point in the real world, and this sensation of depth and perspective separates MR from AR (Brigham 2017). The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) is an example of a mixed reality device.
 
-* **XR** is a collective term for all immersive technologies—VR, AR, and MR. XR refers to the spectrum of experiences that blur the line between the real world and virtual environments (Alizadehsalehi _et al._ 2020). 
+* **eXtended Reality (XR)** is a collective term for all immersive technologies—VR, AR, and MR. XR refers to the spectrum of experiences that blur the line between the real world and virtual environments (Alizadehsalehi _et al._ 2020). 
 
 ##### Figure 1: Relationship of immersive technologies (Roe 2024).
 
