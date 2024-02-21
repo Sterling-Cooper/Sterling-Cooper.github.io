@@ -4,11 +4,11 @@ title: Emerging Immersive Technologies
 tags: xr metaverse
 ---
 
-As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education.
+As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education. In the course of that exercise I cited the following quote:
 
-> Immersive technologies, including virtual reality (VR), augmented reality (AR), and mixed reality (MR) are creating opportunities to provide students with the “same standardised, evidence-based education, regardless of where or when they are educated” (Skalidis et al. 2023, p.473).
+> Immersive technologies, including virtual reality (VR), augmented reality (AR), and mixed reality (MR) are creating opportunities to provide students with the “same standardised, evidence-based education, regardless of where or when they are educated” (Skalidis _et al._ 2023, p.473).
 
-I must admit that until now I have been using the term “virtual reality” to sweepingly refer to all these experiences. That is highly inaccurate, so it has been enlightening for me to parse the differences:
+I must admit that until now I have been using the term “virtual reality” to sweepingly refer to all these experiences. I now know how inaccurate that is, so it has been enlightening for me to parse the differences:
 
 * **VR** implies a level of immersion that shuts out the physical world. VR generates a completely artificial computer-simulated image and environment with real-time interaction (Khor _et al._ 2016). Examples of VR include [Oculus Quest](https://www.oculus.com/quest/refurbished/), [HTC Vive](https://www.vive.com/us/product/vive-pro2/overview/), and [PlayStation VR](https://www.playstation.com/en-us/ps-vr/).
 
@@ -24,13 +24,13 @@ I must admit that until now I have been using the term “virtual reality” to 
 
 ## Shared virtual spaces
 
-This foray into the world of [spatial computing](https://developer.apple.com/wwdc23/topics/spatial-computing/) led me perilously close to learning about something I had happily avoided until now - the metaverse. Neal Stephenson is widely credited with coining the term “metaverse” in his 1992 novel “Snow Crash”, in which he described a virtual reality-based replacement for the internet with interactive self-representations known as avatars (Stephenson 1992). A proliferation of alternative definitions have emerged over the ensuing three decades. Still, a contemporary understanding seems to be that the metaverse represents a shared virtual space where users can engage with each other in computer-generated surroundings. Through that lens, the term metaverse seems to neatly encapsulate the intent of immersive technologies at large.
+This foray into the world of [spatial computing](https://developer.apple.com/wwdc23/topics/spatial-computing/) led me perilously close to learning about something I had happily avoided until now - the metaverse. Neal Stephenson is widely credited with coining the term “metaverse” in his 1992 novel “Snow Crash”, in which he described a virtual reality-based replacement for the internet with interactive self-representations known as avatars (Stephenson 1992). A proliferation of alternative definitions have emerged over the ensuing three decades. Still, a contemporary understanding seems to be that the metaverse represents a shared virtual space where users can engage with each other in computer-generated surroundings. Through that lens, the term metaverse seems to neatly encapsulate the intent of XR technologies at large.
 
 Launched in 2003, Linden Lab’s [Second Life](https://secondlife.com/) was the first prominent attempt to create a metaverse. Second Life popularised the concept of a virtual world—a computer-based, simulated multi-media environment designed for users to interact via their own graphical avatars (Boulos _et al._ 2007).
 
 Delving into the origins of Second Life reminded me of the previous semester's module on the theory of technical communication and my experience with Collaborative Online International Learning ([COIL](https://coil.suny.edu/)). COIL enabled students in different countries to learn and work together in virtual settings through the [OpenSimulator](http://opensimulator.org/wiki/Main_Page) environment. As I understand it, these implementations have a close relationship—OpenSimulator can be used to simulate virtual environments similar to SecondLife.
 
-I must admit, I found using OpenSimulator to be an underwhelming experience. The consensus among our small Pan-European project grouping was that the potential applications are theoretically promising, but the user experience of navigating this particular virtual world felt very dated. Indeed, my own reluctance to engage with the term metaverse is probably coloured by my perception that virtual worlds are unfashionable.
+I must admit, I found using OpenSimulator to be an underwhelming experience. The consensus among our small cross-European project grouping was that the potential applications are theoretically promising, but the user experience of navigating this particular virtual world felt very dated. In retrospect, my own reluctance to engage with the term metaverse is probably coloured by my perception that virtual worlds are unfashionable.
 
 ##### Figure 2. Scientific Figure on ResearchGate (2008).
 
@@ -38,23 +38,23 @@ I must admit, I found using OpenSimulator to be an underwhelming experience. The
 
 ## Vision of the Future
 
-Could the emergence of a new generation of immersive products mean the metaverse technology is now catching up to the theory? The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) is in the midst of a significant cultural moment, and the consumer market for XR headsets is booming (Metaverse - Virtual World, Real Challenges 2022).
+Could the emergence of a new generation of immersive products mean the technology of virtual worlds is now catching up to the theory? The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) is in the midst of a significant cultural moment, and the consumer market for XR headsets is booming (Metaverse - Virtual World, Real Challenges 2022).
 
-For immersive technology to make good on the theoretical applications pitched to technical communicators (enhanced learning experiences, improved training, better collaboration, engaging visualisations, etc.), it probably needs to cross a certain threshold of popularity. To that end, I am really interested in the extent to which workplaces embrace immersive devices. It's early, of course, but TechCrunch recently indicated that Apple are targeting that market (Miller 2024).
+For immersive technology to make good on the theoretical applications pitched to technical communicators (enhanced learning experiences, improved training, better collaboration, engaging visualisations, etc.), it probably needs to cross a certain threshold of popularity. To that end, I am really interested in the extent to which workplaces embrace immersive devices. It's early, of course, but TechCrunch recently indicated that Apple are targeting that market:
 
-> Apple sees the enterprise as a potentially large part of the AVP [Apple Vision Pro] market and it will take the ability to connect to existing systems to make that happen, says Steve Sinclair, who is part of worldwide product marketing for Apple Vision Pro. “We’re really focused on making sure that we have the enterprise building blocks that the companies expect for networking support, for making sure that we’re managing and protecting corporate data with data protection, being able to start with some of the basic blocking and tackling type capabilities.”
+> Apple sees the enterprise as a potentially large part of the AVP [Apple Vision Pro] market and it will take the ability to connect to existing systems to make that happen, says Steve Sinclair, who is part of worldwide product marketing for Apple Vision Pro. “We’re really focused on making sure that we have the enterprise building blocks that the companies expect for networking support, for making sure that we’re managing and protecting corporate data with data protection, being able to start with some of the basic blocking and tackling type capabilities” (Miller 2024).
 
 I think this is noteworthy because it may be possible for immersive technology to follow a similar path to the Personal Computer (PC). Employers initially provided their workers with PCs because they boosted productivity. Employees who became comfortable using PCs at work started buying them for home and personal use. Around half the planet now owns a home computer, and that surge in popularity unlocked all sorts of applications, tools and uses that were previously unimagined/unimaginable (Share of households with a computer at home worldwide 2024).
 
-If the PC does serve as precedent, then the one certainty is that the Apple Vision Pro is not the final destination. Who can say where exactly this path leads, but Apple CEO Tim Cook has been vocal about how important he thinks AR will be:
+If the PC does serve as precedent, then the only certainty is that the Apple Vision Pro is not the final destination. Who can say where exactly this path leads, but Apple CEO Tim Cook has been vocal about how important he thinks AR will be:
 
 > In particular, the big goal is optical AR, where light passes directly through unobtrusive glasses to your eyes, with digital information layered over the top of what you’re seeing (Patel 2024).
 
-Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a similar idea of the metaverse being all around us:
+Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a similar idea of the metaverse taking the form of computer generated surroundings overlaid on top of the real world:
 
 > What virtual and augmented reality can do, and what the metaverse broadly is going to help people experience, is a sense of presence that I think is just much more natural in the way that we’re made to interact (Newton 2021).
 
-Over the course of the COIL project, it was hard for me to separate the potential benefits of virtual spaces from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, digging into the idea has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'll be watching events unfold with a new perspective.
+Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'll be watching events unfold with a new perspective.
 
 ##### Figure 3: Demonstration of the Apple Vision Pro (Apple 2024).
 
@@ -78,8 +78,8 @@ _Metaverse - Virtual World, Real Challenges_ (2022) Council of the European Unio
 
 Miller, R. (2024) _Apple brings enterprise device management to the Vision Pro_, TechCrunch, available: [https://techcrunch.com/2024/02/06/apple-brings-enterprise-device-management-to-the-vision-pro/](https://techcrunch.com/2024/02/06/apple-brings-enterprise-device-management-to-the-vision-pro/) [accessed 19 Feb 2024].
 
-Newton, C. (2021) _Mark in the metaverse_, The Verge, 
-[https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview).
+Newton, C. (2021) _Mark in the metaverse_, The Verge, available: 
+[https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview](https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview) [accessed 19 Feb 2024].
 
 Patel, N. (2024) _Apple Vision Pro review: magic, until it’s not_, The Verge, available:
 [https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price](https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price) [accessed 19 Feb 2024].
