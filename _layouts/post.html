@@ -27,6 +27,10 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  <div class="share-links">
+    {% include share-links.html %}
+  </div>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include navigation-links.html %}
