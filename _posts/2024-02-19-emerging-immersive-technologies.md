@@ -50,7 +50,7 @@ If the PC does serve as precedent, then the only certainty is that the Apple Vis
 
 > In particular, the big goal is optical AR, where light passes directly through unobtrusive glasses to your eyes, with digital information layered over the top of what you’re seeing (Patel 2024).
 
-Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a similar idea of the metaverse taking the form of computer generated surroundings overlaid on top of the real world:
+Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a similar idea of the metaverse taking the form of a three-dimensional internet overlaid on top of the real world:
 
 > What virtual and augmented reality can do, and what the metaverse broadly is going to help people experience, is a sense of presence that I think is just much more natural in the way that we’re made to interact (Newton 2021).
 
