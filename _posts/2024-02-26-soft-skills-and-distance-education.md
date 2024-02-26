@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Soft Skills and Distance Education
-tags: soft-skills
+tags: soft-skills distance-education
 ---
 
 The primary assignment in last semester’s Research Methods in Technical Communication module was to create a research proposal. The research question I asked in my proposal was: “How do software engineering workers acquire soft skills?” My background as a software engineering worker will partially explain the title, so perhaps the pertinent question is—why soft skills?
 
-Early in my career, a senior colleague told me that “software is a people business.” In many ways, this is a classic example of [business-speak](https://www.forbes.com/sites/groupthink/2012/01/26/the-most-annoying-pretentious-and-useless-business-jargon/?sh=cd476922eeaf). It’s punchy, maybe even profound—and the more it echoes in my head, the more it doesn’t seem to mean anything at all. 
+Early in my career, a senior colleague told me that “software is a people business.” In many ways, this is a classic example of [business jargon](https://www.forbes.com/sites/groupthink/2012/01/26/the-most-annoying-pretentious-and-useless-business-jargon/?sh=cd476922eeaf). It’s punchy, maybe even profound—and the more it echoes in my head, the more it doesn’t seem to mean anything at all. 
 
-However, in the context of our discussion, this phrase _did_ mean something to me. My colleague was trying to articulate how the success of a software company depends on each constituent unit’s ability to work together. For that to happen, individuals need to be able to manage relationships with customers, suppliers, colleagues, mentors, and their leadership chain. Even in the most digitally-focussed profession, the process of building a product is a thoroughly human endeavour. In that respect, “software is a people business” summed up his message quite succinctly. What he was describing was the importance of soft skills.
+However, in the context of our discussion, this phrase _did_ mean something to me. My colleague was trying to articulate how the success of a software company depends on each constituent unit’s ability to work together. For that to happen, individuals need to be able to manage relationships with customers, suppliers, colleagues, mentors, and many others. Even in the most digitally-focussed profession, the process of building a product is a thoroughly human endeavour. In that respect, “software is a people business” summed up his message quite succinctly. What he was describing was the importance of soft skills.
 
 ##### Figure 1: Business team working together (GeorgeRudy/Canva n.d.).
 
@@ -28,13 +28,13 @@ I am convinced that soft skills are at least as important as hard skills. Think 
 
 ## How are Soft Skills Acquired?
 
-I learned the core hard skills of my profession through formal education. I picked up some minor certifications and qualifications after leaving University, but I accrued most of my new technical skills by solving problems and completing tasks. I usually achieved this with quiet time or “[with headphones on](https://learn.microsoft.com/en-us/previous-versions/viva/insights/tutorials/gm-focus#best-practices).”
+I learned the core hard skills of my profession through formal education. I picked up some minor certifications and qualifications after leaving University, but I accrued most of my new technical skills by solving problems and completing tasks. I usually achieved this during quiet time or “[with headphones on](https://learn.microsoft.com/en-us/previous-versions/viva/insights/tutorials/gm-focus#best-practices).”
 
 In contrast, much of what I know about soft skills has come through social interaction, observation, and face-to-face coaching. Over the years, my job became more about communication and less about programming. And yet, I received little formal soft skills training throughout my career. It is no coincidence that I was drawn to this MA to understand better professional communication and the theory and practice of learning.
 
 I don’t think my experience is unique. It’s understood that curricula at the undergraduate level often emphasise hard skills. This leaves soft skills to be developed through social experience in the workplace, which is why they are sometimes referred to as “people skills” (Levasseur 2013).
 
-All of which leads me to wonder whether this arrangement “[works as designed](https://www.webster-dictionary.org/definition/working+as+designed).” One learns hard skills through formal education and solving problems. Meanwhile, soft skills are handed down from generation to generation like campfire tales.
+All of which leads me to wonder whether this arrangement “[works as designed](https://www.webster-dictionary.org/definition/working+as+designed).” Engineers learn hard skills through formal education and solving problems. Meanwhile, soft skills are handed down from generation to generation like campfire tales.
 
 Perhaps this is the way of things. But things are changing.
 
