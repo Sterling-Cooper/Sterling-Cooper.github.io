@@ -1,0 +1,3 @@
+# Begone text-scraping machines of the internet, there is nothing to see here!
+User-agent: *
+Disallow: /
