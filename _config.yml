@@ -1,6 +1,9 @@
 title: "Reflective Blogging"
-author: "22150595"
+author: "By 22150595"
 theme: minima
+description: "Musings on EL6082."
+github_username: "Sterling-Cooper"
+email: "22150595@studentmail.ul.ie"
 
 header_pages:
   - follow.md
