@@ -6,7 +6,7 @@ tags: github-pages jekyll
 
 Choosing the medium for my reflective blog became an unexpectedly fun exercise and an interesting subject for my first post! What follows are some thoughts on how the prototype version of the blog evolved and what I learned from the activity. This post is not an exhaustive technical guide, but I discuss some of the practical challenges I encountered and link to more thorough documentation throughout the article.
 
-## Picking a host
+## Picking a Host
 
 At first glance, potential hosts like WordPress and Google Sites fulfilled all the requirements. However, I also had a feeling that I would never use either of these platforms beyond the completion of the assignment. I decided to look a little further afield and in doing so remembered **Github Pages**:
 
@@ -16,7 +16,7 @@ This immediately appealed to me because I’m familiar with Github [&#185;](#foo
 
 ![PNG image illustrating the Hello World stub index page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-hello.png?raw=true)
 
-## Selecting a theme
+## Selecting a Theme
 
 Encouraged, I ventured a little further down the rabbit hole. The next item on my to-do list was to write out a full list of requirements for the site. Of course, I completely ignored this step and started giddily playing with the array of pre-built [themes](https://pages.github.com/themes/).
 
@@ -44,7 +44,7 @@ Now, about those requirements! By setting my repository to be “public”, the 
 
 That’s a nice start, but it’s not much of a blog without posts!
 
-## Creating a blog post
+## Creating a Blog Post
 
 At this point it became clear to me just how much blogging is baked into Jekyll, because all I needed to do to post my first blog was create a directory called `_posts` and add a new file to it called `2024-02-06-choosing-a-tool-for-blogging.md`. This filename format is important for Jekyll to recognise the file as a post. More details [here](https://jekyllrb.com/docs/posts/).
 
@@ -107,7 +107,7 @@ Within the blog, I should be able to build up a list of links to other blogs and
 ├── follow.md
 ```
 
-## Tags and regrets
+## Tags and Regrets
 
 > _“Assumptions are dangerous things to make, and like all dangerous things to make, bombs, for instance, or strawberry shortcake, if you make even the tiniest mistake you can find yourself in terrible trouble.”_ – Lemony Snicket (Handler 2000)
 

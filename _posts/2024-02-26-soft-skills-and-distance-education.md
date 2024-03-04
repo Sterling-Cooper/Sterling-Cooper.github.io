@@ -10,9 +10,9 @@ Early in my career, a senior colleague told me that “software is a people busi
 
 However, in the context of our discussion, this phrase _did_ mean something to me. My colleague was trying to articulate how the success of a software company depends on each constituent unit’s ability to work together. For that to happen, individuals need to be able to manage relationships with customers, suppliers, colleagues, mentors, and many others. Even in the most digitally-focussed profession, the process of building a product is a thoroughly human endeavour. In that respect, “software is a people business” summed up his message quite succinctly. What he was describing was the importance of soft skills.
 
-##### Figure 1: Business team working together (GeorgeRudy/Canva n.d.).
+##### Figure 1: Business team working together (Canva/GeorgeRudy n.d.).
 
-![PNG image representing team work by illustrating a group of people putting their hands together in a workplace setting](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-teamwork.png?raw=true)
+![PNG image of a group of people putting their hands together in a workplace setting](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-teamwork.png?raw=true)
 
 ## Hard Skills and Soft Skills
 
@@ -50,7 +50,7 @@ And then things changed quickly. [The pandemic made working from home necessary]
 
 ## Parallels in Distance Education
 
-Sometimes I imagine what it would be like to start my career while working-from-home. What is the Microsoft Teams equivalent of endlessly badgering my desk-neighbour with setup questions? How would I soak up communication tips from my colleagues when I don’t see them in person? Could I miss out on useful information if I can’t absorb conversations occurring around me? Would I have the same ability to make friends with less chance encounters? If distance learning is instruction which happens when teachers and learners are separated by time, space, and/or distance, then I think distance educators are grappling with the same questions (Driscoll 2002).
+Sometimes I imagine what it would be like to start my career while working-from-home. What is the Microsoft Teams equivalent of endlessly badgering my desk-neighbour with setup questions? How would I soak up communication tips from my colleagues when I don’t see them in person? Could I miss out on useful information if I can’t absorb conversations occurring around me? Would I have the same ability to make friends with fewer chance encounters? If distance learning is instruction which happens when teachers and learners are separated by time, space, and/or distance, then I think distance educators are grappling with the same questions (Driscoll 2002).
 
 As part of this semester’s E-learning Theories and Practices module, we have been discussing the paradigm shift that e-learning represents for distance education. Educators want to embrace the advantages of e-learning technologies to access information and sustain educational discourse. At the same time, educators do not want to undermine or discount the enormous value of face-to-face educational experience (Garrison 2011). My immediate reaction is that modern workplaces are looking for a similar balance.
 

@@ -4,11 +4,11 @@ title: Emerging Immersive Technologies
 tags: xr metaverse
 ---
 
-As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education. In the course of that exercise I cited the following quote:
+As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education. As part of that exercise I cited the following quote:
 
 > Immersive technologies, including virtual reality (VR), augmented reality (AR), and mixed reality (MR) are creating opportunities to provide students with the “same standardised, evidence-based education, regardless of where or when they are educated” (Skalidis _et al._ 2023, p.473).
 
-I must admit that until now I have been using the term “virtual reality” to sweepingly refer to all these experiences. I now know how inaccurate that is, so it has been enlightening for me to parse the differences:
+I must admit that until now I have been using the term “virtual reality” to sweepingly refer to all these experiences. I now know how inaccurate that is, so parsing the differences was enlightening for me:
 
 * **Virtual Reality (VR)** implies a level of immersion that shuts out the physical world. VR generates a completely artificial computer-simulated image and environment with real-time interaction (Khor _et al._ 2016). Examples of VR include [Oculus Quest](https://www.oculus.com/quest/refurbished/), [HTC Vive](https://www.vive.com/us/product/vive-pro2/overview/), and [PlayStation VR](https://www.playstation.com/en-us/ps-vr/).
 
@@ -20,9 +20,9 @@ I must admit that until now I have been using the term “virtual reality” to 
 
 ##### Figure 1: Relationship of immersive technologies (Roe 2024).
 
-![PNG image illustrating the relationship of immersive technologies](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-vr-ar-mr.png?raw=true)
+![PNG image illustrating immersive technology categories VR, MR, and AR as a subset of XR](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-vrarmr.png?raw=true)
 
-## Shared virtual spaces
+## Shared Virtual Spaces
 
 This foray into the world of [spatial computing](https://developer.apple.com/wwdc23/topics/spatial-computing/) led me perilously close to learning about something I had happily avoided until now - the metaverse. Neal Stephenson is widely credited with coining the term “metaverse” in his 1992 novel “Snow Crash”, in which he described a virtual reality-based replacement for the internet with interactive self-representations known as avatars (Stephenson 1992). A proliferation of alternative definitions have emerged over the ensuing three decades. Still, a contemporary understanding seems to be that the metaverse represents a shared virtual space where users can engage with each other in computer-generated surroundings. Through that lens, the term metaverse seems to neatly encapsulate the intent of XR technologies at large.
 
