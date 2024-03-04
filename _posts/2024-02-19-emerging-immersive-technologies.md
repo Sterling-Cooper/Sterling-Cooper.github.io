@@ -18,9 +18,8 @@ I must admit that until now I have been using the term “virtual reality” to 
 
 * **eXtended Reality (XR)** is a collective term for all immersive technologies—VR, AR, and MR. XR refers to the spectrum of experiences that blur the line between the real world and virtual environments (Alizadehsalehi _et al._ 2020). 
 
-##### Figure 1: Relationship of immersive technologies (Roe 2024).
-
 ![PNG image illustrating immersive technology categories VR, MR, and AR as a subset of XR](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-vrarmr.png?raw=true)
+##### Figure 1: Relationship of immersive technologies (Roe 2024).
 
 ## Shared Virtual Spaces
 
@@ -32,9 +31,8 @@ Delving into the origins of Second Life reminded me of the previous semester's m
 
 I must admit, I found using OpenSimulator to be an underwhelming experience. The consensus among our small cross-European project grouping was that the potential applications are theoretically promising, but the user experience of navigating this particular virtual world felt very dated. In retrospect, my own reluctance to engage with the term metaverse is probably coloured by my perception that virtual worlds are unfashionable.
 
-##### Figure 2. Scientific Figure on ResearchGate (2008).
-
 ![PNG image illustrating SecondLife created by LindenLabs](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-secondlife.png?raw=true)
+##### Figure 2. Scientific Figure on ResearchGate (2008).
 
 ## Vision of the Future
 
@@ -56,9 +54,8 @@ Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a 
 
 Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'll be watching events unfold with a new perspective.
 
-##### Figure 3: Demonstration of the Apple Vision Pro (Apple 2024).
-
 ![PNG image illustrating an Apple Vision Pro user](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-avp.png?raw=true)
+##### Figure 3: Demonstration of the Apple Vision Pro (Apple 2024).
 
 ## References
 

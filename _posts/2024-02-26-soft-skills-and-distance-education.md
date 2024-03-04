@@ -10,9 +10,8 @@ Early in my career, a senior colleague told me that “software is a people busi
 
 However, in the context of our discussion, this phrase _did_ mean something to me. My colleague was trying to articulate how the success of a software company depends on each constituent unit’s ability to work together. For that to happen, individuals need to be able to manage relationships with customers, suppliers, colleagues, mentors, and many others. Even in the most digitally-focussed profession, the process of building a product is a thoroughly human endeavour. In that respect, “software is a people business” summed up his message quite succinctly. What he was describing was the importance of soft skills.
 
-##### Figure 1: Business team working together (Canva/GeorgeRudy n.d.).
-
 ![PNG image of a group of people putting their hands together in a workplace setting](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-teamwork.png?raw=true)
+##### Figure 1: Business team working together (Canva/GeorgeRudy n.d.).
 
 ## Hard Skills and Soft Skills
 
@@ -22,9 +21,8 @@ I had the good fortune to start my career in a small company that emphasised the
 
 I am convinced that soft skills are at least as important as hard skills. Think about an engineer with an average level of technical expertise. Suppose that engineer can expertly navigate conflict, build consensus, communicate their ideas, cultivate a positive culture, and get work done through others. Is that person more valuable to their company than a deep technical expert with average soft skills?
 
-##### Figure 2: Hard skills versus soft skills (Canva/AndriiDodonov n.d.).
-
 ![PNG image illustrating the text "hard skills versus soft skills" on a notepad in a workplace setting](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-sketch.png?raw=true)
+##### Figure 2: Hard skills versus soft skills (Canva/AndriiDodonov n.d.).
 
 ## How are Soft Skills Acquired?
 
@@ -44,9 +42,8 @@ At first, things changed slowly. Improving technology allowed many software engi
 
 And then things changed quickly. [The pandemic made working from home necessary](https://doi.org/10.1016/j.jss.2022.111509) (Šmite _et al._ 2023). [Meetings moved to video conferencing apps](https://www.theguardian.com/technology/2020/may/21/the-zoom-boom-how-video-calling-became-a-blessing-and-a-curse) (Kalia 2020). [Slack made asynchronous communication fun](https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace) (Lopatto 2024). [A generation questioned their relationship to work and the workplace](https://www.vox.com/recode/22776112/quit-jobs-great-resignation-workers-union) (Molla 2021). Many software engineers now find it easier to complete tasks at home, where they have quiet time to solve problems and teach themselves new technical skills.
 
-##### Figure 3: Working remotely (Canva/Designer491 n.d.).
-
 ![PNG image illustrating the text "work remotely" on a sign sitting on a work desk](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-remote.png?raw=true)
+##### Figure 3: Working remotely (Canva/Designer491 n.d.).
 
 ## Parallels in Distance Education
 
