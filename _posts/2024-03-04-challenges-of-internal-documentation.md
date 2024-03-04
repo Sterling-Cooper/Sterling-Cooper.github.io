@@ -26,7 +26,7 @@ I have spent my whole career working for software companies, and internal docume
 
 Starting a new Google Doc or a wiki page is cheap and easy. There is almost no upfront cost except the time a person is willing to spend writing it. If I look for documentation but can't find it, my instinct is to fill the gap. Of course, all I really know is that I couldn't find a particular document. See challenge #1. If the documentation already exists, then I have only duplicated the information. I freely admit I have done this many times.
 
-If I look for documentation and _can_ find it, that is not necessarily a happy outcome. I might need to “fix” the document. Often, the information is out-of-date. Sometimes, the document is poorly organised. Occasionally, the owner of the document is now in a different department. Instead of fixing the existing document, it is more convenient for me to start afresh. I ashamedly admit I have done this many times.
+If I look for documentation and _can_ find it, I might need to “fix” the document. Often, the information is out-of-date. Sometimes, the document is poorly organised. Occasionally, the owner of the document is now in a different department. Instead of fixing the existing document, it is more convenient for me to start afresh. I ashamedly admit I have done this many times.
 
 ## Challenge #3: Documentation is Hard to Write
 
@@ -48,9 +48,9 @@ So, in little and large ways, I am starting to make sense of the three challenge
 ## Challenge #4: Documentation is (Sometimes) Ignored
 
 ![PNG image representing the challenge of reading documentation by illustrating a confused man looking at a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-reading.png?raw=true)
-##### Figure 4: Reading documentation (Canva/daltomimagephotographyn00 n.d.).
+##### Figure 4: Reading documentation (Canva/mimagephotography n.d.).
 
-I can illustrate this with an example. Software is now a 24-hour business, and customers have a reduced tolerance for outages or downtime. As a result, software companies are adopting practices to ensure their sites and services are always available. One such practice is to document critical procedures and troubleshooting guides in [runbooks](https://docs.gitlab.com/ee/user/project/clusters/runbooks/). The idea is that when something unexpected happens, engineers can use a specific runbook to find the information they need to resolve the problem quickly.
+I can illustrate this concern with an example. Software is now a 24-hour business, and customers have a reduced tolerance for outages or downtime. As a result, software companies are adopting practices to ensure their sites and services are always available. One such practice is to document critical procedures and troubleshooting guides in [runbooks](https://docs.gitlab.com/ee/user/project/clusters/runbooks/). The idea is that when something unexpected happens, engineers can use a specific runbook to find the information they need to resolve the problem quickly.
 
 Runbooks are a rarity among internal documentation in that they are:
 

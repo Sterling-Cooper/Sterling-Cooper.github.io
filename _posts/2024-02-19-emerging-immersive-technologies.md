@@ -4,7 +4,7 @@ title: Emerging Immersive Technologies
 tags: xr metaverse
 ---
 
-As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education. As part of that exercise I cited the following quote:
+As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education. During that exercise I cited the following quotation:
 
 > Immersive technologies, including virtual reality (VR), augmented reality (AR), and mixed reality (MR) are creating opportunities to provide students with the “same standardised, evidence-based education, regardless of where or when they are educated” (Skalidis _et al._ 2023, p.473).
 
@@ -27,16 +27,19 @@ This foray into the world of [spatial computing](https://developer.apple.com/wwd
 
 Launched in 2003, Linden Lab’s [Second Life](https://secondlife.com/) was the first prominent attempt to create a metaverse. Second Life popularised the concept of a virtual world—a computer-based, simulated multi-media environment designed for users to interact via their own graphical avatars (Boulos _et al._ 2007).
 
+![PNG image illustrating SecondLife created by LindenLabs](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-secondlife.png?raw=true)
+##### Figure 2. Scientific Figure on ResearchGate (2008).
+
 Delving into the origins of Second Life reminded me of the previous semester's module on the theory of technical communication and my experience with Collaborative Online International Learning ([COIL](https://coil.suny.edu/)). COIL enabled students in different countries to learn and work together in virtual settings through the [OpenSimulator](http://opensimulator.org/wiki/Main_Page) environment. As I understand it, these implementations have a close relationship—OpenSimulator can be used to simulate virtual environments similar to SecondLife.
 
 I must admit, I found using OpenSimulator to be an underwhelming experience. The consensus among our small cross-European project grouping was that the potential applications are theoretically promising, but the user experience of navigating this particular virtual world felt very dated. In retrospect, my own reluctance to engage with the term metaverse is probably coloured by my perception that virtual worlds are unfashionable.
 
-![PNG image illustrating SecondLife created by LindenLabs](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-secondlife.png?raw=true)
-##### Figure 2. Scientific Figure on ResearchGate (2008).
-
 ## Vision of the Future
 
 Could the emergence of a new generation of immersive products mean the technology of virtual worlds is now catching up to the theory? The [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) is in the midst of a significant cultural moment, and the consumer market for XR headsets is booming (Metaverse - Virtual World, Real Challenges 2022).
+
+![PNG image illustrating an Apple Vision Pro user](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-avp.png?raw=true)
+##### Figure 3: Demonstration of the Apple Vision Pro (Apple 2024).
 
 For immersive technology to make good on the theoretical applications pitched to technical communicators (enhanced learning experiences, improved training, better collaboration, engaging visualisations, etc.), it probably needs to cross a certain threshold of popularity. To that end, I am really interested in the extent to which workplaces embrace immersive devices. It's early, of course, but TechCrunch recently indicated that Apple are targeting that market:
 
@@ -53,9 +56,6 @@ Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a 
 > What virtual and augmented reality can do, and what the metaverse broadly is going to help people experience, is a sense of presence that I think is just much more natural in the way that we’re made to interact (Newton 2021).
 
 Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'll be watching events unfold with a new perspective.
-
-![PNG image illustrating an Apple Vision Pro user](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-avp.png?raw=true)
-##### Figure 3: Demonstration of the Apple Vision Pro (Apple 2024).
 
 ## References
 
