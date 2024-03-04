@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Challenges of Internal Documentation
-tags: technical-documentation
+tags: internal-documentation
 ---
 
 I am interested in how people communicate professionally.
@@ -16,7 +16,7 @@ Documentation plays a vital role in each of these interests. Consequently, some 
 
 ##### Figure 1: Searching for documentation (Canva/Be-Art n.d.).
 
-![PNG image representing search by illustrating a magnifying glass in front of a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-search?raw=true)
+![PNG image representing search by illustrating a magnifying glass in front of a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-search.png?raw=true)
 
 I have spent my whole career working for software companies, and internal documentation is always hard to find. This assertion feels counter-intuitive because, through a highly reductive lens, all software companies do is produce text. But therein lies the problem. There is too much text. There is code. There are code reviews. There are internal wiki sites. There is bug-tracking software. There are asynchronous group chats. There are Word Docs. There are Google Slides. There are dedicated documentation sites. And so on. Each medium can hold essential information, but there is rarely consensus on the “source of truth”. Even when there is agreement, it still leaves the difficulty of searching and retrieving information across many sources.
 
@@ -24,7 +24,7 @@ I have spent my whole career working for software companies, and internal docume
 
 ##### Figure 2: Maintaining documentation (Canva/formatoriginalphotos n.d.).
 
-![PNG image representing maintenance by illustrating a set of tools on a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-maintenance?raw=true)
+![PNG image representing maintenance by illustrating a set of tools on a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-maintenance.png?raw=true)
 
 Starting a new Google Doc or a wiki page is cheap and easy. There is almost no upfront cost except the time a person is willing to spend writing it. If I look for documentation but can't find it, my instinct is to fill the gap. Of course, all I really know is that I couldn't find a particular document. See Challenge #1. If the documentation already exists, then I have only duplicated the information. I freely admit I have done this many times.
 
@@ -34,7 +34,7 @@ If I look for documentation and _can_ find it, that is not necessarily a happy o
 
 ##### Figure 3: Writing documentation (Canva/dalton00 n.d.).
 
-![PNG image representing the difficulty of writing by illustrating a broken pencil on an empty notepad](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-writing?raw=true)
+![PNG image representing the difficulty of writing by illustrating a broken pencil on an empty notepad](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-writing.png?raw=true)
 
 Maybe I should be more specific. _Good_ documentation is hard to write. I'd like to think I appreciated this before starting this MA, but I most certainly do now. As a software engineer, how good you are at writing documentation is primarily a by-product of your interest in acquiring that skill. There are excellent engineers who write terrible docs, mediocre engineers who write great docs, and everything in between. It means that the quality of documentation varies wildly. There is very little training. Standards are makeshift. It all adds up to a lack of recognition of how hard it is to write good documentation.
 
@@ -52,7 +52,7 @@ So, in little and large ways, I am starting to make sense of the three challenge
 
 ##### Figure 3: Reading documentation (Canva/dalton00 n.d.).
 
-![PNG image representing the challenge of reading documentation by illustrating a confused man looking at a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-reading?raw=true)
+![PNG image representing the challenge of reading documentation by illustrating a confused man looking at a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-reading.png?raw=true)
 
 I can illustrate this with an example. Software is now a 24-hour business, and customers have a reduced tolerance for outages or downtime. As a result, software companies are adopting practices to ensure their sites and services are always available. One such practice is to document critical procedures and troubleshooting guides in [runbooks](https://docs.gitlab.com/ee/user/project/clusters/runbooks/). The idea is that when something unexpected happens, engineers can use a specific runbook to find the information they need to resolve the problem quickly.
 
