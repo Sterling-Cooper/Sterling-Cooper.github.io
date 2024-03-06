@@ -51,7 +51,7 @@ Sometimes I imagine what it would be like to start my career while working-from-
 
 As part of this semester’s E-learning Theories and Practices module, we have been discussing the paradigm shift that e-learning represents for distance education. Educators want to embrace the advantages of e-learning technologies to access information and sustain educational discourse. At the same time, educators do not want to undermine or discount the enormous value of face-to-face educational experience (Garrison 2011). My immediate reaction is that modern workplaces are looking for a similar balance.
 
-![PNG image illustrating a virtual meeting with many people on a video call](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-virtual.png?raw=true)
+![PNG image illustrating a virtual meeting with many people on a video call](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-meeting.png?raw=true)
 ##### Figure 4: Virtual meeting (Canva/AndreyPopov n.d.).
 
 ## Parallels in Distance Education
