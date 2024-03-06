@@ -8,11 +8,11 @@ Choosing the medium for my reflective blog became an unexpectedly fun exercise a
 
 ## Picking a Host
 
-At first glance, potential hosts like WordPress and Google Sites fulfilled all the requirements. However, I also had a feeling that I would never use either of these platforms beyond the completion of the assignment. I decided to look a little further afield and in doing so remembered **Github Pages**:
+At first glance, potential hosts like WordPress and Google Sites fulfilled all the requirements. However, I also had a feeling that I would never use either of these platforms beyond the completion of the assignment. I decided to look a little further afield and in doing so remembered **GitHub Pages**:
 
 > "GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website" (About GitHub Pages n.d.).
 
-This immediately appealed to me because I’m familiar with Github [&#185;](#footnotes), Markdown [&#178;](#footnotes), and I have a longstanding wish to learn more about the docs-as-code [&#179;](#footnotes) mindset. Github Pages presented an opportunity to dabble with all three. Intrigued, I decided to dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I had my very own website!
+This immediately appealed to me because I’m familiar with GitHub [&#185;](#footnotes), Markdown [&#178;](#footnotes), and I have a longstanding wish to learn more about the docs-as-code [&#179;](#footnotes) mindset. GitHub Pages presented an opportunity to dabble with all three. Intrigued, I decided to dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I had my very own website!
 
 ![PNG image illustrating the Hello World stub index page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-hello.png?raw=true)
 
@@ -20,7 +20,7 @@ This immediately appealed to me because I’m familiar with Github [&#185;](#foo
 
 Encouraged, I ventured a little further down the rabbit hole. The next item on my to-do list was to write out a full list of requirements for the site. Of course, I completely ignored this step and started giddily playing with the array of pre-built [themes](https://pages.github.com/themes/).
 
-![GIF image illustrating the pre-packaged themes for Github Pages](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-theme.gif?raw=true)
+![GIF image illustrating the pre-packaged themes for GitHub Pages](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-theme.gif?raw=true)
 
 An unspecified amount of time disappeared before I settled on [Minima](https://github.com/jekyll/minima). As the name suggests, it has a simple, clean, and familiar layout in keeping with other popular technical writing blogs. 
 
@@ -82,9 +82,9 @@ Rather than add this block of code to each individual page (and risk forgetting 
 ├── index.md
 ```
 
-This allows the user to leave a comment on each post, with the small caveat that they must already logged be into Github. The comments appear as issues in the Github repository. The owner is able to delete any issues, effectively allowing me to moderate the discussion, which I see as a plus. 
+This allows the user to leave a comment on each post, with the small caveat that they must already logged be into GitHub. The comments appear as issues in the GitHub repository. The owner is able to delete any issues, effectively allowing me to moderate the discussion, which I see as a plus. 
 
-![GIF image illustrating how utterances comments can be managed as Github issues](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-comments.gif?raw=true)
+![GIF image illustrating how utterances comments can be managed as GitHub issues](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-comments.gif?raw=true)
 
 > **&#9745; Requirement:** One of the characteristics of a blog is that readers can comment on blog entries.
 
@@ -111,7 +111,7 @@ Within the blog, I should be able to build up a list of links to other blogs and
 
 > _“Assumptions are dangerous things to make, and like all dangerous things to make, bombs, for instance, or strawberry shortcake, if you make even the tiniest mistake you can find yourself in terrible trouble.”_ – Lemony Snicket (Handler 2000)
 
-Up to this point I assumed that adding categories or tags to organise blog posts would be trivial. A failed attempt to simply "enable" tags was followed by an increasingly panicked websearch, and eventually the inescapable conclusion that tags are not supported by Github Pages. The blood only started to return to my face when I discovered a wonderful post on [how to implement Jekyll tags on Github Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this I learned that I needed to add the tags for each blog to the post's "front matter". Front matter is a way to set variables for each page (Deployment n.d.).
+Up to this point I assumed that adding categories or tags to organise blog posts would be trivial. A failed attempt to simply "enable" tags was followed by an increasingly panicked websearch, and eventually the inescapable conclusion that tags are not supported by GitHub Pages. The blood only started to return to my face when I discovered a wonderful post on [how to implement Jekyll tags on GitHub Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this I learned that I needed to add the tags for each blog to the post's "front matter". Front matter is a way to set variables for each page (Deployment n.d.).
 
 ##### Example front matter:
 ```
@@ -162,13 +162,13 @@ The most striking part for me was how the act of writing forced me to grapple wi
 
 My second big takeaway is to always stick to the assignment brief. While the motivation for choosing this path was to explore some new aspects of documentation, I made a mistake in getting too sidetracked by non-essential features. Making sure the core requirements of tags and comments were in place should have been my top priority.
 
-Github Pages and Jekyll are powerful blogging tools and a really interesting community has developed around them. Since writing this I've noticed some of the calling cards in other blogs, notably [in the code for https://idratherbewriting.com/](https://github.com/tomjoht/tomjoht.github.io).
+GitHub Pages and Jekyll are powerful blogging tools and a really interesting community has developed around them. Since writing this I've noticed some of the calling cards in other blogs, notably [in the code for https://idratherbewriting.com/](https://github.com/tomjoht/tomjoht.github.io).
 
-The Continuous Integration [&#8308;](#footnotes)  aspect of building Github Pages is really interesting, and I've only just scratched the surface. This is definitely something I will keep building on beyond this assignment!
+The Continuous Integration [&#8308;](#footnotes)  aspect of building GitHub Pages is really interesting, and I've only just scratched the surface. This is definitely something I will keep building on beyond this assignment!
 
 ## Footnotes
 
-&#185; Github is a popular code sharing and collaboration service owned by Microsoft (Lardinois and Lunden 2018).
+&#185; GitHub is a popular code sharing and collaboration service owned by Microsoft (Lardinois and Lunden 2018).
 
 &#178; Markdown is a text-to-HTML conversion tool for web writers. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it has been marked up with tags or formatting instructions (Gruber 2004). 
 
@@ -178,7 +178,7 @@ The Continuous Integration [&#8308;](#footnotes)  aspect of building Github Page
 
 ## References
 
-_About Github Pages_ (n.d.) docs.github.com, available:
+_About GitHub Pages_ (n.d.) docs.github.com, available:
 [https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) [accessed 12 Feb 2024].
 
 _Deployment_ (n.d.) jekyllrb.com, available:

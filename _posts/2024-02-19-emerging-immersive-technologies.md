@@ -30,7 +30,7 @@ Launched in 2003, Linden Lab’s [Second Life](https://secondlife.com/) was the 
 ![PNG image illustrating SecondLife created by LindenLabs](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-secondlife.png?raw=true)
 ##### Figure 2. Scientific Figure on ResearchGate (2008).
 
-Delving into the origins of Second Life reminded me of the previous semester's module on the theory of technical communication and my experience with Collaborative Online International Learning ([COIL](https://coil.suny.edu/)). COIL enabled students in different countries to learn and work together in virtual settings through the [OpenSimulator](http://opensimulator.org/wiki/Main_Page) environment. As I understand it, these implementations have a close relationship—OpenSimulator can be used to simulate virtual environments similar to SecondLife.
+Delving into the origins of Second Life brought me back to the previous semester's module on the theory of technical communication and my experience with Collaborative Online International Learning ([COIL](https://coil.suny.edu/)). COIL enabled students in different countries to learn and work together in virtual settings through the [OpenSimulator](http://opensimulator.org/wiki/Main_Page) environment. As I understand it, these implementations have a close relationship—OpenSimulator can be used to simulate virtual environments similar to SecondLife.
 
 I must admit, I found using OpenSimulator to be an underwhelming experience. The consensus among our small cross-European project grouping was that the potential applications are theoretically promising, but the user experience of navigating this particular virtual world felt very dated. In retrospect, my own reluctance to engage with the term metaverse is probably coloured by my perception that virtual worlds are unfashionable.
 
@@ -55,7 +55,7 @@ Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a 
 
 > What virtual and augmented reality can do, and what the metaverse broadly is going to help people experience, is a sense of presence that I think is just much more natural in the way that we’re made to interact (Newton 2021).
 
-Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'll be watching events unfold with a new perspective.
+Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'm extremely excited about the possibilities for collaborative learning and distance education.
 
 ## References
 

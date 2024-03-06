@@ -45,21 +45,28 @@ And then things changed quickly. [The pandemic made working from home necessary]
 ![PNG image illustrating the text "work remotely" on a sign sitting on a work desk](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-remote.png?raw=true)
 ##### Figure 3: Working remotely (Canva/Designer491 n.d.).
 
-## Parallels in Distance Education
+## The New Reality
 
 Sometimes I imagine what it would be like to start my career while working-from-home. What is the Microsoft Teams equivalent of endlessly badgering my desk-neighbour with setup questions? How would I soak up communication tips from my colleagues when I don’t see them in person? Could I miss out on useful information if I can’t absorb conversations occurring around me? Would I have the same ability to make friends with fewer chance encounters? If distance learning is instruction which happens when teachers and learners are separated by time, space, and/or distance, then I think distance educators are grappling with the same questions (Driscoll 2002).
 
 As part of this semester’s E-learning Theories and Practices module, we have been discussing the paradigm shift that e-learning represents for distance education. Educators want to embrace the advantages of e-learning technologies to access information and sustain educational discourse. At the same time, educators do not want to undermine or discount the enormous value of face-to-face educational experience (Garrison 2011). My immediate reaction is that modern workplaces are looking for a similar balance.
 
-At this point I should note that I am exactly one lecture into this material! Disclaimer aside, I wonder if there is scope for soft skills training that borrows from distance education research. Take the educational Community of Inquiry (COI) for example. Garrison (2011, p.11) refers to a COI as “a group of individuals who collaboratively engage in purposeful critical discourse and reﬂection to construct personal meaning and conﬁrm mutual understanding”. This is particularly interesting in the context of soft skills because it reckons with the concept of social presence. Social presence is “the ability of participants in a community of inquiry to project themselves socially and emotionally, as ‘real’ people (i.e., their full personality), through the medium of communication being used” (Garrison _et al._ 1999, p.94).
+![PNG image illustrating a virtual meeting with many people on a video call](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/softskills-virtual.png?raw=true)
+##### Figure 4: Virtual meeting (Canva/AndreyPopov n.d.).
+
+## Parallels in Distance Education
+
+At this point I should note that I am exactly one lecture into this material! Disclaimer aside, I wonder if there is scope for soft skills training that borrows from distance education research. Take the educational Community of Inquiry (COI) for example. Garrison (2011, p.11) refers to a COI as “a group of individuals who collaboratively engage in purposeful critical discourse and reﬂection to construct personal meaning and conﬁrm mutual understanding.” This is particularly interesting in the context of soft skills because it reckons with the concept of social presence. Social presence is “the ability of participants in a community of inquiry to project themselves socially and emotionally, as ‘real’ people (i.e., their full personality), through the medium of communication being used” (Garrison _et al._ 1999, p.94).
 
 For software engineers, the medium of communication is asynchronous text. Microsoft Teams and Slack brought text-based group chats to the workplace. Of course, a group chat is very different to a face-to-face conversation. Body language and verbal intonation can have a profound effect on how people interpret messages (Garrison 2011). Can the nature of written language compensate for the lack of in-person cues? Academic research tells us that students can and do overcome the lack of non-verbal communication by establishing familiarity through the use of greetings, encouragement, and personal disclosure (Garrison 2011).
 
-I have only scratched the surface of a complex area of research, but what I have read so far is promising. I am hopeful that the principles behind frameworks like the COI are transferrable to industry. If so, then I am interested to learn more about creating a quality learning environment where engineers can develop soft skills. Of course, for that to happen, employers need to acknowledge the role that soft skills play in the success of their business and invest in their people. Software, after all, is a people business.
+I have only scratched the surface of a complex area of research, but what I have read so far is intriguing. I am hopeful that the principles behind frameworks like the COI are transferrable to industry. I have to reconcile that with my feeling that something significant will be lost through diminishing in-person contact. But that's all the more reason to learn about creating a quality learning environment where engineers can develop soft skills. Of course, for that to happen, employers need to acknowledge the role that soft skills play in the success of their business and invest in their people. Software, after all, is a people business.
 
 ## References
 
 Ahmed, F., Capretz, L.F. and Campbell, P. (2012) ‘Evaluating the Demand for Soft Skills in Software Development’, _IT Professional_, 14(1), 44–49, available: [https://doi.org/10.1109/MITP.2012.7](https://doi.org/10.1109/MITP.2012.7).
+
+Canva/AndreyPopov (n.d.) _Virtual hybrid meeting in office_ [PNG image], available: [https://www.canva.com/photos/MAE1MK8h46E-virtual-hybrid-meeting-in-office/](https://www.canva.com/photos/MAE1MK8h46E-virtual-hybrid-meeting-in-office/) [accessed 26 Feb 2024].
 
 Canva/AndriiDodonov (n.d.) _Hard skills vs soft skills_ [PNG image], available: [https://www.canva.com/photos/MAErci8C6ts-hard-skills-vs-soft-skills-are-shown-on-the-business-photo-using-the-text/](https://www.canva.com/photos/MAErci8C6ts-hard-skills-vs-soft-skills-are-shown-on-the-business-photo-using-the-text/) [accessed 26 Feb 2024].
 
