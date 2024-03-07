@@ -14,15 +14,17 @@ At first glance, potential hosts like WordPress and Google Sites fulfilled all t
 
 This immediately appealed to me because I’m familiar with GitHub [&#185;](#footnotes), Markdown [&#178;](#footnotes), and I have a longstanding wish to learn more about the docs-as-code [&#179;](#footnotes) mindset. GitHub Pages presented an opportunity to dabble with all three. Intrigued, I decided to dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I had my very own website!
 
+##### Figure 1: The Hello World stub index page:
 ![PNG image illustrating the Hello World stub index page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-hello.png?raw=true)
 
 ## Selecting a Theme
 
 Encouraged, I ventured a little further down the rabbit hole. The next item on my to-do list was to write out a full list of requirements for the site. Of course, I completely ignored this step and started giddily playing with the array of pre-built [themes](https://pages.github.com/themes/).
 
+##### Figure 2: The pre-packaged themes for GitHub Pages:
 ![GIF image illustrating the pre-packaged themes for GitHub Pages](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-theme.gif?raw=true)
 
-An unspecified amount of time disappeared before I settled on [Minima](https://github.com/jekyll/minima). As the name suggests, it has a simple, clean, and familiar layout in keeping with other popular technical writing blogs. 
+The lure of unconventional colour schemes is strong! Eventually though, the lectures on accessibility, usability, layout, colour and text win out and I settle on [Minima](https://github.com/jekyll/minima). As the name suggests, it has a simple, clean, and familiar layout in keeping with other popular technical writing blogs. 
 
 ## Building with Jekyll
 
@@ -84,6 +86,7 @@ Rather than add this block of code to each individual page (and risk forgetting 
 
 This allows the user to leave a comment on each post, with the small caveat that they must already logged be into GitHub. The comments appear as issues in the GitHub repository. The owner is able to delete any issues, effectively allowing me to moderate the discussion, which I see as a plus. 
 
+##### Figure 3: How utterances comments can be managed as GitHub issues:
 ![GIF image illustrating how utterances comments can be managed as GitHub issues](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-comments.gif?raw=true)
 
 > **&#9745; Requirement:** One of the characteristics of a blog is that readers can comment on blog entries.
@@ -92,6 +95,7 @@ This allows the user to leave a comment on each post, with the small caveat that
 
 Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I found a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs (see [`follow.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/follow.md)) and linking it in the header gives the list its own space and keeps it discoverable.
 
+##### Figure 4: Adding the "Blogs I Follow" page:
 ![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-following.png?raw=true)
 
 ##### Blog root directory:
@@ -128,7 +132,9 @@ Now that the list of tags is known, they can be displayed at the bottom of each 
 
 When a user clicks the link on a tag, they will expect a different layout to a regular post. [`_layouts/tag-page.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_layouts/tag-page.html) describes a clean page with a list of tagged blog posts, without the extra bells and whistles of a regular blog post. This is essentially a form of "Blog Archive", and its content is defined in [`archive.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/archive.md).
 
+##### Figure 5: Adding tags/categories to the blog:
 ![GIF image illustrating the presentation of blog tags](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-tags.gif?raw=true)
+
 
 > **&#9745; Requirement:** Include a Categories or Tags widget to organise blog posts.
 
