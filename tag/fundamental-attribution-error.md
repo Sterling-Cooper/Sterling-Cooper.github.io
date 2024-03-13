@@ -1,5 +1,5 @@
 ---
 layout: tag-page
-title: "Tag: xr"
-tag: xr
+title: "Tag: fundamental-attribution-error"
+tag: fundamental-attribution-error
 ---
