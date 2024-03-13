@@ -91,9 +91,9 @@ This allows the user to leave a comment on each post, with the small caveat that
 
 > **&#9745; Requirement:** One of the characteristics of a blog is that readers can comment on blog entries.
 
-## Blogs I follow
+## Blogs I Follow
 
-Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experimented with adding this list as its own blog post, and alternatively as a table in the landing page, but neither result felt natural. Going back to the theme configuration in `_config.yml`, I found a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs (see [`follow.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/follow.md)) and linking it in the header gives the list its own space and keeps it discoverable.
+Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experimented with many layouts and various table positions. Each iteration seemed to conflict with one of Kimball and Hawkins' (2008) principles of design, particularly alignment and enclosure. Going back to the theme configuration in `_config.yml`, I found a setting to add a page to the permanent header (`header_pages`). Creating a new page for the list of blogs (see [`follow.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/follow.md)) and linking it in the header gives the list its own space and keeps it discoverable.
 
 ##### Figure 4: Adding the "Blogs I Follow" page:
 ![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-following.png?raw=true)
@@ -199,6 +199,8 @@ Gruber, J. (2004) _Markdown_, Daring Fireball, available: [https://daringfirebal
 _Jekyll_ (n.d.) github.com, available: [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) [accessed 12 Feb 2024].
 
 Handler, D. (2000) _The Austere Academy_, New York: HarperCollins.
+
+Kimball, M.A. and Hawkins, A.R. (2008) _Document Design: A Guide for Technical Communicators_, Boston: Bedford/St. Martin’s.
 
 Lardinois, F. and Lunden, I. (2018) _Microsoft has acquired GitHub for $7.5B in stock_, TechCrunch, available: [https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/](https://techcrunch.com/2018/06/04/microsoft-has-acquired-github-for-7-5b-in-microsoft-stock/) [accessed 12 Feb 2024].
 

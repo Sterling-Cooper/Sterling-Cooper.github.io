@@ -10,7 +10,7 @@ As part of my research project (EL6013), I am exploring how to learn from failur
 
 I should explain why I’m interested in failure! My background is in software engineering. I have spent the last ten years developing and deploying services for a significant Software as a Service (SaaS) company. SaaS providers build software models of interrelated, increasingly automated services. These services run online in the cloud. Customers expect modern online systems to run 24 hours a day, 365 days a year. These expectations have only accelerated the complexity of this software. Given the pressures on these systems, it is impressive that they function effectively most of the time. However, they do fail, often in unexpected and unusual ways.
 
-I am increasingly surprised by how our industry reviews these failures. The software industry often focuses on collaboration, positive culture, and employee well-being. Yet, rather than embrace the opportunity to learn, the default response to these failures is often to seek blame. Wondering why this is the case, I re-read the documentation for an existing review process. Terms like “corrective action”, “nonconformity”, "verdict", and “review board” suddenly struck me as ominous, perhaps even punitive. This thought led me to consider how terminology influences the outcome of a review. Can language explain our tendency to assign blame?
+I am increasingly surprised by how our industry reviews these failures. The software industry often focuses on collaboration, positive culture, and employee well-being. Yet, rather than embrace the opportunity to learn, the default response to these failures is often to seek blame. Wondering why this is the case, I re-read the documentation for an existing review process. Terms like “corrective action”, “nonconformity”, "verdict", and “review board” suddenly struck me as ominous, perhaps even punitive. This thought led me to consider how terminology influences the outcome of a review. Can language we use in reviews explain our tendency to assign blame?
 
 ![PNG image representing blame by illustrating a shadow pointing at a businessman](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/language-blame.png?raw=true)
 ##### Figure 1: Shadow pointing and blaming (Canva/vchal n.d.).
@@ -24,7 +24,7 @@ Some exploration in this area led me to the work of UAB’s [Crista Vesel](https
 | Agentive | “Sam made an error.” |
 | Non-agentive | “An error was made.” |
 
-This definition of agency reminds me of DuBay’s golden rules of documentation writing. Namely, to “use simple sentences, active voice, and present tense” (DuBay 2004, p.2). Students of last semester’s Principles of Technical Communication module (TW5221) will see the connection between **agency** and writing in the **active voice**. The active voice clearly identifies the action and who is performing that action.
+This definition of agency reminds me of DuBay’s golden rules of documentation writing. Namely, to “use simple sentences, active voice, and present tense” (DuBay 2004, p.2). Students of last semester’s Principles of Technical Communication module will see the connection between **agency** and writing in the **active voice**. The active voice clearly identifies the action and who is performing that action.
 
 | Voice | Example |
 | --- | ----------- |

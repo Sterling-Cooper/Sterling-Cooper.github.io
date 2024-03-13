@@ -10,7 +10,7 @@ I am interested in how knowledge flows through an organisation.
 
 I am interested in how problems are solved with information.
 
-Documentation plays a vital role in each of these interests. Consequently, some of my motivations for taking this MA are to learn more about technical documentation and writing. As I go through this material, I keep circling back to the challenges of internal documentation in the workplace. 
+Documentation plays a vital role in each of these interests. Consequently, some of my motivations for taking this MA are to learn more about technical documentation and writing. As I go through this material, my mind keeps circling back to the challenges of internal documentation in the workplace.
 
 ## Challenge #1: Documentation is Hard to Find
 
@@ -43,14 +43,14 @@ As I progress through this MA, I am addressing these faults. I am more confident
 
 My eyes are open to topic-based writing. I can advocate for an editorial framework conforming to well-defined types that produces more standalone, modular articles (Baker 2013). I am forming opinions on tooling that makes creating and maintaining documentation easy. These things are helping in big ways.
 
-So, in little and large ways, I am starting to make sense of these three challenges and how to address them. This sense of achievement prompted me to write this post. And yet, as I'm writing I have a feeling that something is missing. These challenges seem to be teetering on the assumption that the issue only relates to _producing_ documentation. Once the internal documentation is searchable, maintainable, and well-written, our problems will be no more. But what if nobody reads the docs that we produce?
+So, in little and large ways, I am starting to make sense of these three challenges and how to address them. This sense of achievement prompted me to write this post. And yet, as I'm writing I have a feeling that something is missing. These challenges seem to be teetering on the assumption that the core issue relates to _producing_ documentation. Once the internal documentation is searchable, maintainable, and well-written, our problems will be no more. But what if nobody reads the docs that we produce?
 
 ## Challenge #4: Documentation is (Sometimes) Ignored
 
 ![PNG image representing the challenge of reading documentation by illustrating a confused man looking at a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-reading.png?raw=true)
 ##### Figure 4: Reading internal documentation (Canva/mimagephotography n.d.).
 
-I can illustrate this concern with an example. Software is now a 24-hour business, and customers have a reduced tolerance for outages or downtime. As a result, software companies are adopting practices to ensure their sites and services are always available. One such practice is to document critical procedures and troubleshooting guides in [runbooks](https://docs.gitlab.com/ee/user/project/clusters/runbooks/). The idea is that when something unexpected happens, engineers can use a specific runbook to find the information they need to resolve the problem quickly.
+I can illustrate this concern with an example. To increase reliability, software companies are adopting practices to ensure their sites and services are always available. One such practice is to document critical procedures and troubleshooting guides in [runbooks](https://docs.gitlab.com/ee/user/project/clusters/runbooks/). The idea is that when something unexpected happens, engineers can use a specific runbook to find the information they need to resolve the problem quickly.
 
 Runbooks are a rarity among internal documentation in that they are:
 
@@ -64,7 +64,7 @@ In other words, runbooks are an example of good internal documentation. And yet,
 
 ## Moving Forward
 
-Ultimately, the solution to all four challenges might be the same–strive to elevate documentation to the same level as code. Good habits will form over time. If you have seen this executed successfully or can offer a counterpoint, please leave a reply!
+Ultimately, the solution to all four challenges might be the same–strive to elevate documentation to the same level as code. Good habits will form over time. Maybe. To be honest, I'm not comfortable with the amount of hope involved in that strategy. If you have seen this executed successfully or can offer a counterpoint, please leave a reply!
 
 Nonetheless, I suggest gathering qualitative and quantitative information on your organisation's mindset. Do you have a culture of writing good documentation? And do you have a culture of reading your documentation? It's not enough to answer yes to only one of these questions. And I'm not sure which question is more challenging to answer.
 
