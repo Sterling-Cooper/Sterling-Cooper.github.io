@@ -32,7 +32,7 @@ I learn that each of these themes is powered by [Jekyll](https://docs.github.com
 
 To get this far, I only need a page for my "Hello World" markdown (`index.md`) and my own configuration file (`_config.yml`). That’s an excellent start, but it’s not much of a blog without posts!
 
-## Feature #3: Posts
+## Feature #3: Blog Posts
 
 At this point, it becomes clear that blogging is not a feature of Jekyll—it’s baked into it. All I need to do to post my first blog is create a directory called `_posts` and add a new file called `2024-02-12-choosing-a-tool-for-blogging.md`. This filename format is essential for Jekyll to recognise the file as a post. There are more details [here](https://jekyllrb.com/docs/posts/), but this is what it looks like:
 
@@ -75,7 +75,7 @@ Within the blog, I should be able to build up a list of links to other blogs and
 
 > _“Assumptions are dangerous things to make, and like all dangerous things to make, bombs, for instance, or strawberry shortcake, if you make even the tiniest mistake you can find yourself in terrible trouble.”_ – Lemony Snicket (Handler 2000)
 
-Up to this point, I assume that adding categories or tags to organise blog posts will be trivial. I am so convinced of this assumption that I leave the task to the end. A failed attempt to simply “enable” tags is followed by an increasingly panicked web search. Eventually, I accept that GitHub Pages does not support tags. I have made mistake number two. The next ten minutes are spent calculating how many hours I’ve wasted. The blood only starts to return to my face when I discover a fantastic post on [implementing Jekyll tags on GitHub Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this article, I learn that a two-step process can resolve my problem. Step one is to add tags to each post’s “front matter”. Front matter is a way to set variables for each page (Deployment n.d.).
+Up to this point, I assume that adding categories or tags to organise blog posts will be trivial. I am so convinced of this assumption that I leave the task to the end. A failed attempt to simply “enable” tags is followed by an increasingly panicked web search. Eventually, I accept that GitHub Pages does not support tags. This is mistake number two. The next ten minutes are spent calculating how many hours I’ve wasted. The blood only starts to return to my face when I discover a fantastic post on [implementing Jekyll tags on GitHub Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this article, I learn that a two-step process can get me out of this bind. Step one is to add tags to each post’s “front matter”. Front matter is a way to set variables for each page (Deployment n.d.).
 
 ##### Figure 7: Example front matter:
 ```
@@ -103,7 +103,7 @@ My second big takeaway is to always stick to the assignment brief. While the mot
 
 GitHub Pages and Jekyll are powerful blogging tools, and an energetic community has developed around them. Since writing this, I’ve noticed some of their calling cards in other blogs, notably [in the code for https://idratherbewriting.com/](https://github.com/tomjoht/tomjoht.github.io).
 
-The Continuous Integration (CI) [&#8308;](#footnotes) aspect of building GitHub Pages is fascinating, and I’ve only scratched the surface. I have a lot of experience with CI for software development and there's a lot of overlap with the docs-as-code mindset. This is something I am keen to build on beyond this assignment!
+The Continuous Integration (CI) [&#8308;](#footnotes) aspect of building GitHub Pages is fascinating, and I’ve only scratched the surface. I have a lot of experience with CI for software development and there's a lot of overlap here with the docs-as-code mindset. This is something I am keen to build on beyond this assignment!
 
 ## Footnotes
 
