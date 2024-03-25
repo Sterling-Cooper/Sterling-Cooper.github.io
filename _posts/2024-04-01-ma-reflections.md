@@ -8,9 +8,9 @@ My decision to enrol in this MA will be forever entwined with my decision to tak
 
 ## The Forty-Year Career
 
-I’ve been thinking a lot about the forty(ish)-year career. I’m getting to the halfway point of this journey, and for the first time, I’m starting to think about my career in its entirety. Do I see another twenty years on my current path, or am I at a fork in the road?
+I’ve been thinking a lot about the forty(ish)-year career. I’m getting to the halfway point of this journey, and for the first time, I’m starting to think about my career in its entirety. Do I see another twenty-plus years on my current path, or am I at a fork in the road?
 
-I started on this path as a software engineer. After a while, I became a manager. It wasn’t a role I aspired to, but I thought it would be interesting to try it for a while. Most managers make many mistakes when they manage a team for the first time. I know I did. But something interesting happened. I got a lot better at it. Being good at what you do is rewarding. So I happily kept doing it for twelve years.
+I started on this path as a software engineer. After a while, I became a manager. It wasn’t a role I aspired to, but I thought it would be interesting to try it for a while. Most managers make a bunch of mistakes when they manage a team for the first time. I know I did. But something interesting happened. I got a lot better at it. Being good at what you do is rewarding. So I happily kept doing it for twelve years.
 
 I learned that to be a good manager, you have to be authentic. Trying to mimic another person’s style doesn’t work. You need to lean on your strengths. What I’m good at is communicating, listening, and empathising. But there’s a fine line between being a people-person and a people-pleaser. When I get the balance wrong, I carry other people’s problems like they’re my problems. I am more aware of this now, which helps. But the fatigue builds up.
 
@@ -21,7 +21,7 @@ After a while, another interesting thing happened. I realised I was running out 
 
 At some point, I passed through what I imagine is the “sweet spot” of management—the period when I’m comfortable in difficult situations, but I haven’t yet realised how draining it is. I’m not experiencing burnout, but maybe it’s waiting further down this path.
 
-So here I am, looking at that fork in the road and where the other path could lead. And so I think about what I like doing. What am I good at? What satisfies me? Thinking about these things led me to do something I didn’t think I would ever do—return to university. 
+So here I am, looking at that fork in the road and where the paths could lead. And so I think about what I like doing. What am I good at? What satisfies me? Thinking about these things led me to do something I didn’t think I would ever do—return to university. 
 
 ## I Enjoy Writing
 

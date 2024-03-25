@@ -48,5 +48,5 @@ Carr, N. (2010) _The Shallows: What the Internet Is Doing to Our Brains_, New Yo
 Firth, J., Torous, J., Stubbs, B., Firth, J.A., Steiner, G.Z., Smith, L., Alvarez-Jimenez, M., Gleeson, J., Vancampfort, D., Armitage, C.J., Sarris, J. (2019) ‘The online brain: how the Internet may be changing our cognition’, _World Psychiatry_, 18(1), available:
 [https://doi.org/10.1002/wps.20617](https://doi.org/10.1002/wps.20617).
 
-Weigel, V.B. (2001) _Deep Learning for a Digital Age  Technology’s Untapped Potential to Enrich Higher Education_, San Francisco: Jossey-Bass.
+Weigel, V.B. (2001) _Deep Learning for a Digital Age: Technology’s Untapped Potential to Enrich Higher Education_, San Francisco: Jossey-Bass.
 
