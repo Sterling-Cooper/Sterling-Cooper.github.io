@@ -35,10 +35,6 @@ In the words of Hayhoe and Brewer (2020, p.92), "technical communication is esse
 
 I love thinking about design and jump at each (rare) opportunity I get to express this side of myself during my day job. Newsletters, presentations, posters, t-shirts, you name it. Some of the most enjoyable aspects of this MA have been the exposure to design thinking, colour, typeface, graphics, layout, accessibility, data visualisation, and much more. This has been some of the most personally rewarding content for me.
 
-## I Enjoy Thinking About Soft Skills
-
-I’m really interested in how we develop interpersonal skills. Our discussions have enlightened me about distance education, learner engagement, and communities of inquiry.
-
 ## I Enjoy Documentation
 
 Over the course of my career, I have become increasingly aware of how organisations approach documentation. This course has taught me about documentation architectures, topic-based writing (Baker 2013), and DITA. The practices I have learned in these modules have been some of the most immediately practical content for me. I have also learned so much about language and tone, and this MA has given me the freedom to explore how we verbally express ourselves in the workplace.
@@ -47,17 +43,17 @@ Over the course of my career, I have become increasingly aware of how organisati
 
 In short, I found many things that I enjoy in this MA. These are things that energise me and fill up my battery. A little over halfway through the MA, I decided to change direction. I’m unsure where the next stop is on this path, but I’m taking a break to find out.
 
-## References
-
 ![PNG image illustrating a wooden path that forks in two directions](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-fork.png?raw=true)
 ##### Figure 2: Fork in the road (Canva/Backyard Productions n.d.).
 
-Canva/Backyard Productions (n.d.) _Fork in the road_ [PNG image], available: [https://www.canva.com/photos/MAD4uXug84I-fork-in-the-road-for-major-decision-on-wooden-boardwalk-in-fores/](https://www.canva.com/photos/MAD4uXug84I-fork-in-the-road-for-major-decision-on-wooden-boardwalk-in-fores/) [accessed 25 Mar 2024].
+## References
+
+Canva/Backyard Productions (n.d.) _Fork in the road_ [PNG image], available: [https://www.canva.com/photos/MAD4uXug84I-fork-in-the-road-for-major-decision-on-wooden-boardwalk-in-fores/](https://www.canva.com/photos/MAD4uXug84I-fork-in-the-road-for-major-decision-on-wooden-boardwalk-in-fores/) [accessed 01 Apr 2024].
 
 Hayhoe, G.F. and Brewer, P.E. (2020) _A Research Primer for Technical Communication: Methods_, Exemplars, and Analyses, 2nd ed., United Kingdom: Routledge, available: [https://doi.org/10.4324/9781003080688](https://doi.org/10.4324/9781003080688).
 
 Roe, D. (2024) _The people management corollary_ [PNG image], available:
-[https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true) [accessed 19 Feb 2024].
+[https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true) [accessed 01 Apr 2024].
 
 Shannon, C.E. and Weaver, W. (1949) _The Mathematical Theory of Communication_, London: University of Illinois Press.
 

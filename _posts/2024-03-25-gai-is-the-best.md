@@ -23,15 +23,17 @@ One of the limitations I remarked upon with [Second Life](https://secondlife.com
 
 Part of the brief for this assignment was for me to reflect on my experiences of using a generative AI tool. I thought about my GAI usage and realised that, besides [programming](https://sterling-cooper.github.io/2024/03/18/gai-is-the-worst.html), all my uses are really basic! Many of my prompts are attempts to cut down on administrative tasks. For example, I use [Ollama](https://ollama.com/) to create meeting agendas and draft document outlines. The most common interaction I have with GAI is to ask a Large Language Model (LLM) to explain a concept and then have a back-and-forth on the topic:
 
-##### Figure 2: Q&A on the topic of TPUs with an LLM:
 ![GIF image illustrating a Q&A with an LLM on the topic of Tensor Processing Units](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/gai-tpu.gif?raw=true)
+
+##### Figure 2: Q&A on the topic of TPUs with an LLM.
 
 I know I could do more. I wonder if what is holding me back is a sense that this is somehow dishonest. I mean this partly in a very literal sense. I have a slightly irrational fear that _any_ interaction with GAI could result in some kind of plagiarism. This part of me is saying not to play with GAI at all. Like a present I’m not allowed to unwrap until I finish this MA.
 
 I also mean it partly in the more abstract sense that perhaps asking GAI a question somehow robs me of the knowledge I acquired. For example, I just revisited Gagné’s nine events of instruction for my research project. Does using an LLM to recall that information neuter my prior learning of this subject?
 
-##### Figure 3: Q&A on the topic of Gagné with an LLM:
 ![GIF image illustrating a Q&A with an LLM on the topic of Gagné's nine events of instruction](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/gai-gagne.gif?raw=true)
+
+##### Figure 3: Q&A on the topic of Gagné with an LLM.
 
 The rational part of my brain knows that’s not true. Access to an LLM’s ability to recall and synthesise information is convenient, but that’s not a threat to deep learning. Deep learning is being able to relate ideas to previous knowledge and experience; deep learning is finding patterns and linking underlying principles; deep learning is being comfortable teaching others (Weigel 2001). Deep learning is as crucial as ever. Maybe more so.
 
