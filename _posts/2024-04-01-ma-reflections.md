@@ -29,17 +29,11 @@ I’ve written a lot of technical documentation, user guides, onboarding guides,
 
 ## I Enjoy Solving Problems with Information
 
-Lannon and Gurak (2022, p.29) define Technical Communication as
-“the exchange of information that helps people interact with technology
-and solve complex problems.” I have seen a few definitions of Technical Communication, but this one resonated with me the most. I’ve spent many years working with geographically dispersed teams. I’ve put a lot of thought into how information flows (or doesn’t) between people and organisations. How to distil information, set context and share knowledge. This MA has equipped me with a lot of complementary knowledge in this MA in things like communication context and communication models (Shannon and Weaver 1948). This has helped me to see communication as a way of explaining the complexity of organisational life.
+In the words of Hayhoe and Brewer (2020, p.92), "technical communication is essentially a social study, one that tries to understand how people communicate with each other within technical domains." This description of technical communication really resonates with me. I have a lot of experience solving problems in a technologically-driven profession. I have spent many years working with geographically dispersed teams. I have put serious thought into how information flows (or doesn’t) between people and organisations, how to distil information, set context and share knowledge. This MA has equipped me with complementary knowledge in communication context and communication models (Shannon and Weaver 1948). This has helped me to see communication as a way of explaining the complexity of organisational life.
 
 ## I Enjoy Design
 
 I love thinking about design and jump at each (rare) opportunity I get to express this side of myself during my day job. Newsletters, presentations, posters, t-shirts, you name it. Some of the most enjoyable aspects of this MA have been the exposure to design thinking, colour, typeface, graphics, layout, accessibility, data visualisation, and much more. This has been some of the most personally rewarding content for me.
-
-## I Enjoy Documentation
-
-My eyes are open to topic-based writing. I learned about DITA. I can advocate for an editorial framework conforming to well-defined types that produces more standalone, modular articles (Baker 2013). I am forming opinions on tooling that makes creating and maintaining documentation easy.
 
 ## I Enjoy Thinking About Soft Skills
 
@@ -60,8 +54,7 @@ In short, I found many things that I enjoy in this MA. These are things that ene
 
 Canva/Backyard Productions (n.d.) _Fork in the road_ [PNG image], available: [https://www.canva.com/photos/MAD4uXug84I-fork-in-the-road-for-major-decision-on-wooden-boardwalk-in-fores/](https://www.canva.com/photos/MAD4uXug84I-fork-in-the-road-for-major-decision-on-wooden-boardwalk-in-fores/) [accessed 25 Mar 2024].
 
-Lannon, J.M. and Gurak, L.J. (2022) _Technical Communication_, 15th ed., Harlow: Pearson
-Education Limited.
+Hayhoe, G.F. and Brewer, P.E. (2020) _A Research Primer for Technical Communication: Methods_, Exemplars, and Analyses, 2nd ed., United Kingdom: Routledge, available: [https://doi.org/10.4324/9781003080688](https://doi.org/10.4324/9781003080688).
 
 Roe, D. (2024) _The people management corollary_ [PNG image], available:
 [https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true) [accessed 19 Feb 2024].
