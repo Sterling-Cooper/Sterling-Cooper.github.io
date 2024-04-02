@@ -14,15 +14,17 @@ At first glance, potential hosts like WordPress and Google Sites seem like good 
 
 This immediately appeals to me because I’m familiar with GitHub [&#185;](#footnotes), Markdown [&#178;](#footnotes), and I have a longstanding wish to learn more about docs-as-code [&#179;](#footnotes). GitHub Pages presents an opportunity to dabble with all three. Intrigued, I dip my toe in the water and follow the five-step introduction on [pages.github.com](https://pages.github.com/). A couple of minutes later, I have my very own website!
 
-##### Figure 1: The Hello World stub index page:
 ![PNG image illustrating the Hello World stub index page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-hello.png?raw=true)
+
+##### Figure 1: The Hello World stub index page.
 
 ## Feature #1: Themes
 
 Encouraged, I venture a little further down the rabbit hole. The next item on my to-do list is to write out a full list of requirements for the site. Of course, I completely ignore this step and start giddily playing with the array of pre-built [themes](https://pages.github.com/themes/).
 
-##### Figure 2: The pre-packaged themes for GitHub Pages:
 ![GIF image illustrating the pre-packaged themes for GitHub Pages](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-theme.gif?raw=true)
+
+##### Figure 2: The pre-packaged themes for GitHub Pages.
 
 Mistake number one is spending far too long on this stage. The lure of unconventional colour schemes is strong! Eventually, the lectures on accessibility, usability, layout, colour, and text win out, and I settle on [Minima](https://github.com/jekyll/minima). As the name suggests, it has a simple, clean, and familiar layout that is in keeping with other popular technical writing blogs. 
 
@@ -36,7 +38,6 @@ To get this far, I only need a page for my "Hello World" markdown (`index.md`) a
 
 At this point, it becomes clear that blogging is not a feature of Jekyll—it’s baked into it. All I need to do to post my first blog is create a directory called `_posts` and add a new file called `2024-02-12-choosing-a-tool-for-blogging.md`. This filename format is essential for Jekyll to recognise the file as a post. There are more details [here](https://jekyllrb.com/docs/posts/), but this is what it looks like:
 
-##### Figure 3: Blog root directory containing initial post:
 ```
 ├── _posts
     └── 2024-02-12-choosing-a-tool-for-blogging.md
@@ -44,11 +45,12 @@ At this point, it becomes clear that blogging is not a feature of Jekyll—it’
 ├── index.md
 ```
 
+##### Figure 3: Blog root directory containing initial post.
+
 ## Feature #4: Comments
 
 I notice that commenting on posts is not supported out of the box. Nor is it immediately apparent to me how to allow readers to add a comment under each article. This is potentially a dealbreaker. But, if I’m honest, I really want this to work! By now, I’ve read enough about Jekyll and GitHub Pages to feel like whatever I learn in this exercise will be helpful in the future. So, I decide to spend some time investigating my options. A little web crawling leads me to [this useful post](https://webapps.stackexchange.com/questions/165528/how-to-add-comments-in-blog-posts-on-github-pages-websites) and an open-source tool called [utterances](https://utteranc.es/). With a little trial and error, I learn that I need to add the following piece of code to each post (see [`_includes/utterances.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_includes/utterances.html)):
 
-##### Figure 4: HTML snippet to enable comments using utterances:
 ```
 <script src="https://utteranc.es/client.js"
         repo="Sterling-Cooper/sterling-cooper.github.io"
@@ -58,18 +60,21 @@ I notice that commenting on posts is not supported out of the box. Nor is it imm
         async>
 </script>
 ```
+##### Figure 4: HTML snippet to enable comments using utterances.
 
 The inclusion of utterances allows you, dear reader, to leave a comment on each of my blog posts (with the small caveat that you must already be logged in to [GitHub](https://github.com/)). The comments appear as [issues](https://github.com/features/issues) in the GitHub repository. As the owner, I’m able to delete any issues. This effectively allows me to moderate the discussion, which I see as a bonus feature. 
 
-##### Figure 5: How utterances comments can be managed as GitHub issues:
 ![GIF image illustrating how utterances comments can be managed as GitHub issues](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-comments.gif?raw=true)
+
+##### Figure 5: How utterances comments can be managed as GitHub issues.
 
 ## Feature #5: Header Links
 
 Within the blog, I should be able to build up a list of links to other blogs and websites on relevant topics. I experiment with many layouts and various table positions. Each iteration seems to conflict with one of Kimball and Hawkins’ (2008) principles of design, particularly alignment and enclosure. Returning to the theme configuration in `_config.yml`, I find a setting to add a page to the permanent header (`header_pages`). This allows me to create a new page for the list of blogs (see [`follow.md`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/follow.md)) and link it in the header. This creates separation between "Blogs I Follow" and regular blog posts, while maintaining discoverability.
 
-##### Figure 6: Adding the “Blogs I Follow” page:
 ![PNG image illustrating the addition of the blogs I follow page](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-following.png?raw=true)
+
+##### Figure 6: Adding the “Blogs I Follow” page.
 
 ## Feature #6: Tags
 
@@ -77,7 +82,6 @@ Within the blog, I should be able to build up a list of links to other blogs and
 
 Up to this point, I assume that adding categories or tags to organise blog posts will be trivial. I am so convinced of this assumption that I leave the task to the end. A failed attempt to simply “enable” tags is followed by an increasingly panicked web search. Eventually, I accept that GitHub Pages does not support tags. This is mistake number two. The next ten minutes are spent calculating how many hours I’ve wasted. The blood only starts to return to my face when I discover a fantastic post on [implementing Jekyll tags on GitHub Pages](https://tainenko.github.io/jekyll-tag-on-github-pages/). From this article, I learn that a two-step process can get me out of this bind. Step one is to add tags to each post’s “front matter”. Front matter is a way to set variables for each page (Deployment n.d.).
 
-##### Figure 7: Example front matter:
 ```
 ---
 layout: post
@@ -86,12 +90,15 @@ tags: github-pages
 --- 
 ```
 
+##### Figure 7: Example front matter.
+
 Step two is to collect the tags I’ve defined. I must do this by editing the HyperText Markup Language (HTML) source of the Minima theme. Here is where my coding rustiness shows. I make numerous clumsy attempts to edit the `<head>` element directly, each time breaking the site in strange and exciting ways. Eventually, I stumble upon a sequence of events that doesn’t break horrifically. A moment of smug satisfaction is interrupted when I remember I must explain what I’ve done. Which I can’t do.
 
 As I attempt to articulate how this works, the sequence of events starts to make sense. All of the tags on my site must be collected in a list called `site.tags` (see [`_includes/collect-tags.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_includes/collect-tags.html)). The order of events is essential. I need to collect the tags before using them, so collection needs to happen early in the page construction. I re-read the [Minima help file](https://github.com/jekyll/minima) and discover the theme supports a `custom-head.html` option for precisely this type of scenario. By calling `collect-tags` from my own implementation of [`custom-head.html`](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_includes/custom-head.html), the tag collection is neatly added to the `<head>` HTML element for each page and ensures the correct order of events. Reflective writing—it works!
 
-##### Figure 8: Illustration of tags usage in GitHub Pages:
 ![GIF image illustrating the presentation of blog tags](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/pages-tags.gif?raw=true)
+
+##### Figure 8: Illustration of tags usage in GitHub Pages.
 
 ## Conclusions
 
