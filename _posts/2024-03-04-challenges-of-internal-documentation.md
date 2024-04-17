@@ -8,16 +8,16 @@ I am interested in how people communicate professionally.
 
 I am interested in how knowledge flows through an organisation.
 
-I am interested in how problems are solved with information.
+I am interested in how we solve problems with information.
 
-Documentation plays a vital role in each of these interests. Consequently, some of my motivations for taking this MA are to learn more about technical documentation and writing. As I go through this material, my mind keeps circling back to the challenges of internal documentation in the workplace.
+Documentation plays a vital role in each of these interests. Consequently, some of my motivations for taking this M.A. are to learn more about technical documentation and writing. As I go through this material, my mind keeps circling back to the challenges of internal documentation in the workplace.
 
 ## Challenge #1: Documentation is Hard to Find
 
 ![PNG image representing search by illustrating a magnifying glass in front of a computer](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-search.png?raw=true)
 ##### Figure 1: Searching for internal documentation (Canva/Be-Art n.d.).
 
-I have spent my whole career working for software companies, and internal documentation is always hard to find. This assertion feels counter-intuitive because, through a highly reductive lens, all software companies do is produce text. But therein lies the problem. There is too much text. There is code. There are code reviews. There are internal wiki sites. There is bug-tracking software. There are asynchronous group chats. There are Word Docs. There are Google Slides. There are dedicated documentation sites. And so on. Each medium can hold essential information, but there is rarely consensus on the “source of truth”. Even when there is agreement, it still leaves the difficulty of searching and retrieving information across many sources.
+I have spent my whole career working for software companies, and internal documentation is always hard to find. This assertion feels counter-intuitive because, through a highly reductive lens, all software companies do is produce text. But therein lies the problem. There is too much text. There is code. There are code reviews. There are internal wiki sites. There is bug-tracking software. There are asynchronous group chats. There are Word Docs. There are Google Slides. There are special documentation sites. And so on. Each medium can hold essential information, but there is rarely consensus on the “source of truth”. Even when there is agreement, it still leaves the difficulty of searching and retrieving information across many sources.
 
 ## Challenge #2: Documentation is Hard to Maintain
 
@@ -33,13 +33,13 @@ If I look for documentation and _can_ find it, I might need to update the docume
 ![PNG image representing the difficulty of writing by illustrating a broken pencil on an empty notepad](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/challenges-writing.png?raw=true)
 ##### Figure 3: Writing internal documentation (Canva/dalton00 n.d.).
 
-Maybe I should be more specific. _Good_ documentation is hard to write. I'd like to think I appreciated this before starting this MA, but I most certainly do now. As a software engineer, how good you are at writing documentation is primarily a by-product of your interest in acquiring that skill. There are excellent engineers who write terrible docs, mediocre engineers who write great docs, and everything in between. It means that the quality of documentation varies wildly. There is very little training. Standards are makeshift. It all adds up to a lack of recognition of how hard it is to write good documentation.
+Maybe I should be more specific. _Good_ documentation is hard to write. I'd like to think I appreciated this before starting this M.A., but I most certainly do now. As a software engineer, how good you are at writing documentation is primarily a by-product of your interest in acquiring that skill. There are excellent engineers who write terrible docs, mediocre engineers who write great docs, and everything in between. It means that the quality of documentation varies wildly. There is very little training. Standards are makeshift. It all adds up to a lack of recognition of how hard it is to write good documentation.
 
 I like to think I am good at doing this hard thing. But this course has held a mirror up to my sins! My inner monologue speaks in the passive voice. I hate using a plain word when a beautifully complicated word is sitting right there. I have an addiction to long sentences. I love adding extraneous information, or what Mayer colourfully describes as "seductive details" (Mayer 2022, p.188).
 
 ## Addressing the Documentation Challenges
 
-As I progress through this MA, I am addressing these faults. I am more confident talking and presenting to colleagues about writing styles. I define my target audience before putting finger to keyboard. I am more incentivised to find and fix existing documentation. My writing style and tone have improved. These things are helping in small ways.
+As I progress through this M.A., I am addressing these faults. I am more confident talking and presenting to colleagues about writing styles. I define my target audience before putting finger to keyboard. I am more incentivised to find and fix existing documentation. My writing style and tone have improved. These things are helping in small ways.
 
 My eyes are open to topic-based writing. I can advocate for an editorial framework conforming to well-defined types that produces more standalone, modular articles (Baker 2013). I am forming opinions on tooling that makes creating and maintaining documentation easy. These things are helping in big ways.
 

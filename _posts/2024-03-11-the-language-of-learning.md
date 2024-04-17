@@ -35,7 +35,7 @@ By its nature, the active voice adds agency. As well as injecting purpose, the �
 
 ## Fundamental Attribution Error
 
-Lee Ross coined the term “fundamental attribution error” (Ross 1977, p.187) to describe how that judgement is introduced. It refers to how much a given action reflects something about the agent’s personality, as opposed to the various situational factors influencing the agent (Ross 2018).
+Lee Ross used the term “fundamental attribution error” (Ross 1977, p.187) to describe how that judgement is introduced. It refers to how much a given action reflects something about the agent’s personality, as opposed to the various situational factors influencing the agent (Ross 2018).
 
 “Sam made an error” illustrates fundamental attribution error. This statement does not consider whether Sam had incorrect instructions, was under extreme stress, or many other possibilities. What it achieves is to imply that Sam is the kind of person that makes errors. We, as readers, might think to ourselves, “I would never do that.” And so, by making a value judgement on Sam’s character, we create a separation between ourselves and Sam. And as a result of that separation, it becomes easy to **blame Sam**. Again, I now understand this is a natural instinct ([and to some degree a by-product of the English language](https://www.youtube.com/watch?v=I64RtGofPW8&t=3270s)), but assigning blame has consequences. One of these consequences is that it separates us from the network of conditions surrounding an event. It’s crucial to surface these circumstances if we want to learn from the episode.
 

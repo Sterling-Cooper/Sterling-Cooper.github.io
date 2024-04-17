@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Reflections on an MA Programme (and Half a Career)
+title: Reflections on an M.A. Programme (and Half a Career)
 tags: career
 ---
 
-My decision to enrol in this MA will be forever entwined with my decision to take a break from my job.
+My decision to enrol in this M.A. will be forever entwined with my decision to take a break from my job.
 
 ## The Forty-Year Career
 
@@ -19,7 +19,7 @@ After a while, another interesting thing happened. I realised I was running out 
 ![PNG image charting the increase of both ability and fatigue over time, plus a "sweet spot" when ability is not too low and fatigue is not too high](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-mgmt.png?raw=true)
 ##### Figure 1: The people management corollary (Roe 2024).
 
-At some point, I passed through what I imagine is the “sweet spot” of management—the period when I’m comfortable in difficult situations, but I haven’t yet realised how draining it is. I’m not experiencing burnout, but maybe it’s waiting further down this path.
+At some point, I passed through what I imagine is the “sweet spot” of management—the period when I’m comfortable in difficult situations, but I haven’t yet realised how draining it is.
 
 So here I am, looking at that fork in the road and where the paths could lead. And so I think about what I like doing. What am I good at? What satisfies me? Thinking about these things led me to do something I didn’t think I would ever do—return to university. 
 
@@ -29,19 +29,19 @@ I’ve written a lot of technical documentation, user guides, onboarding guides,
 
 ## I Enjoy Solving Problems with Information
 
-In the words of Hayhoe and Brewer (2020, p.92), "technical communication is essentially a social study, one that tries to understand how people communicate with each other within technical domains." This description of technical communication really resonates with me. I have a lot of experience solving problems in a technologically-driven profession. I have spent many years working with geographically dispersed teams. I have put serious thought into how information flows (or doesn’t) between people and organisations, how to distil information, set context and share knowledge. This MA has equipped me with complementary knowledge in communication context and communication models (Shannon and Weaver 1948). This has helped me to see communication as a way of explaining the complexity of organisational life.
+In the words of Hayhoe and Brewer (2020, p.92), "technical communication is essentially a social study, one that tries to understand how people communicate with each other within technical domains." This description of technical communication really resonates with me. I have a lot of experience solving problems in a technologically-driven profession. I have spent many years working with geographically dispersed teams. I have put serious thought into how information flows (or doesn’t) between people and organisations, how to distil information, set context and share knowledge. This M.A. has equipped me with complementary knowledge in communication context and communication models (Shannon and Weaver 1948). This has helped me to see communication as a way of explaining the complexity of organisational life.
 
 ## I Enjoy Design
 
-I love thinking about design and jump at each (rare) opportunity I get to express this side of myself during my day job. Newsletters, presentations, posters, t-shirts, you name it. Some of the most enjoyable aspects of this MA have been the exposure to design thinking, colour, typeface, graphics, layout, accessibility, data visualisation, and much more. This has been some of the most personally rewarding content for me.
+I love thinking about design and jump at each opportunity I get to express this side of myself during my day job. Newsletters, presentations, posters, t-shirts, you name it. Some of the most enjoyable aspects of this M.A. have been the exposure to design thinking, colour, typeface, graphics, layout, accessibility, data visualisation, and much more. This has been some of the most personally rewarding content for me.
 
 ## I Enjoy Documentation
 
-Over the course of my career, I have become increasingly aware of how organisations approach documentation. This course has taught me about documentation architectures, topic-based writing (Baker 2013), and DITA. The practices I have learned in these modules have been some of the most immediately practical content for me. I have also learned so much about language and tone, and this MA has given me the freedom to explore how we verbally express ourselves in the workplace.
+Over the course of my career, I have become increasingly aware of how organisations approach documentation. This course has taught me about documentation architectures, topic-based writing (Baker 2013), and DITA. The practices I have learned in these modules have been some of the most immediately useful content for me. I have also learned so much about language and tone, and this M.A. has given me the freedom to explore how we verbally express ourselves in the workplace.
 
 ## The Fork in the Road
 
-In short, I found many things that I enjoy in this MA. These are things that energise me and fill up my battery. A little over halfway through the MA, I decided to change direction. I’m unsure where the next stop is on this path, but I’m taking a break to find out.
+In short, I found many things that I enjoy in this programme. These are things that energise me and fill up my battery. A little over halfway through the M.A., I decided to change direction. I’m unsure where the next stop is on this path, but I’m taking a break to find out.
 
 ![PNG image illustrating a wooden path that forks in two directions](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-fork.png?raw=true)
 ##### Figure 2: Fork in the road (Canva/Backyard Productions n.d.).

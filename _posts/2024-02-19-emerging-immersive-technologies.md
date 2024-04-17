@@ -4,7 +4,7 @@ title: Emerging Immersive Technologies
 tags: xr metaverse
 ---
 
-As part of this semester's E-learning Theories and Practices module, I was prompted to consider how immersive technologies are shaping the future of distance education. During that exercise I cited the following quotation:
+This semester’s E-learning Theories and Practices module prompted me to consider how immersive technologies are shaping the future of distance education. During that exercise I cited the following quotation:
 
 > Immersive technologies, including virtual reality (VR), augmented reality (AR), and mixed reality (MR) are creating opportunities to provide students with the “same standardised, evidence-based education, regardless of where or when they are educated” (Skalidis _et al._ 2023, p.473).
 
@@ -23,14 +23,14 @@ I must admit that until now I have been using the term “virtual reality” to 
 
 ## Shared Virtual Spaces
 
-This foray into the world of [spatial computing](https://developer.apple.com/wwdc23/topics/spatial-computing/) led me perilously close to learning about something I had happily avoided until now - the metaverse. Neal Stephenson is widely credited with coining the term “metaverse” in his 1992 novel “Snow Crash”, in which he described a virtual reality-based replacement for the internet with interactive self-representations known as avatars (Stephenson 1992). A proliferation of alternative definitions have emerged over the ensuing three decades. Still, a contemporary understanding seems to be that the metaverse represents a shared virtual space where users can engage with each other in computer-generated surroundings. Through that lens, the term metaverse seems to neatly encapsulate the intent of XR technologies at large.
+This foray into the world of [spatial computing](https://developer.apple.com/wwdc23/topics/spatial-computing/) led me perilously close to learning about something I had happily avoided until now - the metaverse. Neal Stephenson is widely credited with coining the term “metaverse” in his 1992 novel “Snow Crash”, in which he described a virtual reality-based replacement for the internet with interactive self-representations known as avatars (Stephenson 1992). A proliferation of alternative definitions have emerged over the ensuing three decades. Still, a contemporary understanding seems to be that the metaverse represents a shared virtual space where users can engage with each other in computer-generated surroundings. Through that lens, the term metaverse neatly encapsulates the intent of XR technologies at large.
 
 Launched in 2003, Linden Lab’s [Second Life](https://secondlife.com/) was the first prominent attempt to create a metaverse. Second Life popularised the concept of a virtual world—a computer-based, simulated multi-media environment designed for users to interact via their own graphical avatars (Boulos _et al._ 2007).
 
-![PNG image illustrating SecondLife created by LindenLabs](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-secondlife.png?raw=true)
+![PNG image illustrating Second Life created by LindenLabs](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/xr-secondlife.png?raw=true)
 ##### Figure 2. Scientific Figure on ResearchGate (2008).
 
-Delving into the origins of Second Life brought me back to the previous semester's module on the theory of technical communication and my experience with Collaborative Online International Learning ([COIL](https://coil.suny.edu/)). COIL enabled students in different countries to learn and work together in virtual settings through the [OpenSimulator](http://opensimulator.org/wiki/Main_Page) environment. As I understand it, these implementations have a close relationship—OpenSimulator can be used to simulate virtual environments similar to SecondLife.
+Delving into the origins of Second Life brought me back to the previous semester's module on the theory of technical communication and my experience with Collaborative Online International Learning ([COIL](https://coil.suny.edu/)). COIL enables students in different countries to learn and work together in virtual settings through the [OpenSimulator](http://opensimulator.org/wiki/Main_Page) environment. As I understand it, these implementations have a close relationship—OpenSimulator can be used to simulate virtual environments similar to Second Life.
 
 I must admit, I found using OpenSimulator to be an underwhelming experience. The consensus among our small cross-European project grouping was that the potential applications are theoretically promising, but the user experience of navigating this particular virtual world felt very dated. In retrospect, my own reluctance to engage with the term metaverse is probably coloured by my perception that virtual worlds are unfashionable.
 
@@ -51,11 +51,11 @@ If the PC does serve as precedent, then the only certainty is that the Apple Vis
 
 > In particular, the big goal is optical AR, where light passes directly through unobtrusive glasses to your eyes, with digital information layered over the top of what you’re seeing (Patel 2024).
 
-Since Facebook renamed itself Meta, CEO Mark Zuckerberg has been committed to a similar idea of the metaverse taking the form of a three-dimensional internet overlaid on top of the real world:
+Since Facebook renamed itself Meta, CEO Mark Zuckerberg has committed to a similar idea of the metaverse taking the form of a three-dimensional internet overlaid on top of the real world:
 
 > What virtual and augmented reality can do, and what the metaverse broadly is going to help people experience, is a sense of presence that I think is just much more natural in the way that we’re made to interact (Newton 2021).
 
-Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, I'm extremely excited about the possibilities for collaborative learning and distance education.
+Over the course of the COIL project, it was hard for me to separate the potential benefits of the metaverse from the awkwardness of OpenSimulator's user experience. As such, I found it difficult to reconcile how it could be of practical use in distance education or any other field. However, unpacking the technological drivers has made me re-evaluate what the metaverse describes and what devices might make it possible. If we are on the cusp of the popularisation of immersive technologies, then I have a newfound excitement about the possibilities for collaborative learning and distance education.
 
 ## References
 
@@ -64,7 +64,7 @@ Alizadehsalehi, S., Hadavi, A. and Huang, J.C. (2020) ‘From BIM to extended re
 Apple (2024) _Apple Vision Pro Demo_ [PNG screenshot], available:
 [https://www.apple.com/105/media/us/apple-vision-pro/2024/6e1432b2-fe09-4113-a1af-f20987bcfeee/anim/experience-apps/large.mp4](https://www.apple.com/105/media/us/apple-vision-pro/2024/6e1432b2-fe09-4113-a1af-f20987bcfeee/anim/experience-apps/large.mp4) [accessed 19 Feb 2024].
 
-Boulos, M.N.K., Hetherington, L., and Wheeler, S. (2007) ‘Second Life: an overview of the potential of 3‐D virtual worlds in medical and health education’, _Health information and libraries journal_, 24(4), 233–245, available: [https://doi.org/10.1111/j.1471-1842.2007.00733.x](https://doi.org/10.1111/j.1471-1842.2007.00733.x).
+Boulos, M.N.K., Hetherington, L. and Wheeler, S. (2007) ‘Second Life: an overview of the potential of 3‐D virtual worlds in medical and health education’, _Health information and libraries journal_, 24(4), 233–245, available: [https://doi.org/10.1111/j.1471-1842.2007.00733.x](https://doi.org/10.1111/j.1471-1842.2007.00733.x).
 
 Brigham, T.J. (2017) ‘Reality Check: Basics of Augmented, Virtual, and Mixed Reality’, _Medical reference services quarterly_, 36(2), 171–178, available: [https://doi.org/10.1080/02763869.2017.1293987](https://doi.org/10.1080/02763869.2017.1293987).
 

@@ -56,11 +56,11 @@ As part of this semester’s E-learning Theories and Practices module, we have b
 
 ## Parallels in Distance Education
 
-At this point I should note that I am exactly one lecture into this material! Disclaimer aside, I wonder if there is scope for soft skills training that borrows from distance education research. Take the educational Community of Inquiry (COI) for example. Garrison (2011, p.11) refers to a COI as “a group of individuals who collaboratively engage in purposeful critical discourse and reﬂection to construct personal meaning and conﬁrm mutual understanding.” This is particularly interesting in the context of soft skills because it reckons with the concept of social presence. Social presence is “the ability of participants in a community of inquiry to project themselves socially and emotionally, as ‘real’ people (i.e., their full personality), through the medium of communication being used” (Garrison _et al._ 1999, p.94).
+At this point I should note that I am exactly one lecture into this material! Disclaimer aside, I wonder if there is scope for soft skills training that borrows from distance education research. Take the educational Community of Inquiry (CoI) for example. Garrison (2011, p.11) refers to a CoI as “a group of individuals who collaboratively engage in purposeful critical discourse and reﬂection to construct personal meaning and conﬁrm mutual understanding.” This is particularly interesting in the context of soft skills because it reckons with the concept of social presence. Social presence is “the ability of participants in a community of inquiry to project themselves socially and emotionally, as ‘real’ people (i.e., their full personality), through the medium of communication being used” (Garrison _et al._ 1999, p.94).
 
 For software engineers, the medium of communication is asynchronous text. Microsoft Teams and Slack brought text-based group chats to the workplace. Of course, a group chat is very different to a face-to-face conversation. Communication scholars estimate that 60 to 65 percent of the information we receive in any given exchange is communicated nonverbally (Burgoon _et al._ 1996). Can the nature of written language compensate for the lack of in-person cues? Academic research tells us that students can and do overcome the lack of non-verbal communication by establishing familiarity through the use of greetings, encouragement, and personal disclosure (Garrison 2011). If you have any practice navigating these waters, please share in the comments! I'd love to get a wider sense of people's experiences.
 
-I have only scratched the surface of a complex area of research, but what I have read so far is intriguing. I am hopeful that the principles behind frameworks like the COI are transferrable to industry. I have to reconcile that with my feeling that something significant will be lost through diminishing in-person contact. But that's all the more reason to learn about creating a quality learning environment where engineers can develop soft skills. Of course, for that to happen, employers need to acknowledge the role that soft skills play in the success of their business and invest in their people. Software, after all, is a people business.
+I have only scratched the surface of a complex area of research, but what I have read so far is intriguing. I am hopeful that the principles behind frameworks like the CoI are transferrable to industry. I have to reconcile that with my feeling that something significant will be lost through diminishing in-person contact. But that's all the more reason to learn about creating a quality learning environment where engineers can develop soft skills. Of course, for that to happen, employers need to acknowledge the role that soft skills play in the success of their business and invest in their people. Software, after all, is a people business.
 
 ## References
 
@@ -78,9 +78,9 @@ Canva/GeorgeRudy (n.d.) _Business team working_ [PNG image], available: [https:/
 
 Driscoll, M. (2002) _Web-Based Training: Creating e-Learning Experiences_, 2nd ed., San Francisco, Calif: Jossey-Bass Pfeiffer.
 
-Garrison, D.R., Anderson, T., and Archer, W. (1999) “Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education”, _The Internet and higher education_, 2(2), 87–105, available: [https://doi.org/10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6).
+Garrison, D.R., Anderson, T., and Archer, W. (1999) ‘Critical Inquiry in a Text-Based Environment: Computer Conferencing in Higher Education’, _The Internet and higher education_, 2(2), 87–105, available: [https://doi.org/10.1016/S1096-7516(00)00016-6](https://doi.org/10.1016/S1096-7516(00)00016-6).
 
-Garrison, D.R. (2011) _E-Learning in the 21st Century : A Framework for Research and Practice_, 2nd ed., London: Routledge.
+Garrison, D.R. (2011) _E-Learning in the 21st Century: A Framework for Research and Practice_, 2nd ed., London: Routledge.
 
 Kalia, A. (2020) _The Zoom boom: how video-calling became a blessing – and a curse_, The Guardian, available:
 [https://www.theguardian.com/technology/2020/may/21/the-zoom-boom-how-video-calling-became-a-blessing-and-a-curse](https://www.theguardian.com/technology/2020/may/21/the-zoom-boom-how-video-calling-became-a-blessing-and-a-curse) [accessed 26 Feb 2024].
@@ -93,7 +93,7 @@ Lopatto, E. (2024) _Slackers_, The Verge, available: [https://www.theverge.com/2
 
 Molla, R. (2021) _Hating work is having a moment_, Vox, available: [https://www.vox.com/recode/22776112/quit-jobs-great-resignation-workers-union](https://www.vox.com/recode/22776112/quit-jobs-great-resignation-workers-union) [accessed 26 Feb 2024].
 
-Šmite, D., Moe, N.B., Klotins, E. and Gonzalez-Huerta, J. (2023) “From forced Working-From-Home to voluntary working-from-anywhere: Two revolutions in telework”, _The Journal of systems and software_, 195, 111509–111509, available: [https://doi.org/10.1016/j.jss.2022.111509](https://doi.org/10.1016/j.jss.2022.111509).
+Šmite, D., Moe, N.B., Klotins, E. and Gonzalez-Huerta, J. (2023) ‘From forced Working-From-Home to voluntary working-from-anywhere: Two revolutions in telework’, _The Journal of systems and software_, 195, 111509–111509, available: [https://doi.org/10.1016/j.jss.2022.111509](https://doi.org/10.1016/j.jss.2022.111509).
 
 
 
