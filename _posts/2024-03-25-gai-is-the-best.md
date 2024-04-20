@@ -27,7 +27,7 @@ Part of the brief for this assignment was for me to reflect on my experiences of
 
 ##### Figure 2: Q&A on the topic of TPUs with an LLM.
 
-I know I could do more. I wonder if what is holding me back is a sense that this is somehow dishonest. I mean this partly in a very literal sense. I have a slightly irrational fear that _any_ interaction with GAI could result in some kind of plagiarism. I also mean it partly in the more abstract sense that perhaps asking GAI a question somehow robs me of the knowledge I acquired. For example, I just revisited Gagné’s nine events of instruction for my research project. Does using an LLM to recall that information neuter my prior learning of this subject?
+I know I could do more. I wonder if what is holding me back is a sense that this is somehow dishonest. I mean this partly in a very literal sense. I have a slightly irrational fear that _any_ interaction with GAI could result in some kind of plagiarism. I also mean it partly in the more abstract sense that perhaps asking GAI a question somehow robs me of the knowledge I acquired. For example, I just revisited Gagné’s nine events of instruction. Does using an LLM to recall that information neuter my prior learning of this subject?
 
 ![GIF image illustrating a Q&A with an LLM on the topic of Gagné's nine events of instruction](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/gai-gagne.gif?raw=true)
 
@@ -35,7 +35,7 @@ I know I could do more. I wonder if what is holding me back is a sense that this
 
 ## Changing How We Think
 
-The rational part of my brain knows that’s not true. Access to an LLM’s ability to recall and synthesise information is convenient, but that’s not a threat to deep learning. Deep learning is being able to relate ideas to previous knowledge and experience; deep learning is finding patterns and linking underlying principles; deep learning is being comfortable teaching others (Weigel 2001). Deep learning is as crucial as ever. Maybe more so.
+The rational part of my brain knows that’s not true. Access to an LLM’s ability to recall and synthesise information is convenient, but that’s not a threat to deep learning. Deep learning is being able to relate ideas to previous knowledge and experience; deep learning is finding patterns and linking underlying principles; deep learning is being comfortable teaching others (Weigel 2001). Deep learning is as crucial as ever.
 
 I imagine that people had similar reservations about the Internet. Nicholas Carr certainly raised concerns about the adverse effects of widespread Internet usage on cognition, memory, and concentration (Carr 2010). But history would say we had similar worries about [television](https://www.eastbaytimes.com/2004/12/30/we-used-to-fear-the-tvs-not-the-tv-programming/), [telephones](https://www.theatlantic.com/technology/archive/2015/09/when-the-telephone-was-dangerous/626742/)… and so on all the way back to the [printing press](https://www.ancientpages.com/2021/09/18/why-did-first-printed-books-scare-ancient-scholars-in-europe/). 
 

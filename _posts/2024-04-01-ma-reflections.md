@@ -33,15 +33,15 @@ In the words of Hayhoe and Brewer (2020, p.92), "technical communication is esse
 
 ## I Enjoy Design
 
-I love thinking about design and jump at each opportunity I get to express this side of myself during my day job. Newsletters, presentations, posters, t-shirts, you name it. Some of the most enjoyable aspects of this M.A. have been the exposure to design thinking, colour, typeface, graphics, layout, accessibility, data visualisation, and much more. This has been some of the most personally rewarding content for me.
+I love thinking about design and jump at each opportunity I get to express this side of myself during my day job. Newsletters, presentations, infographics, posters, t-shirts, you name it. Some of the most enjoyable aspects of this M.A. have been the exposure to design thinking, colour, typeface, graphics, layout, accessibility, data visualisation, and much more. This has been the most personally rewarding content for me.
 
 ## I Enjoy Documentation
 
-Over the course of my career, I have become increasingly aware of how organisations approach documentation. This course has taught me about documentation architectures, topic-based writing (Baker 2013), and DITA. The practices I have learned in these modules have been some of the most immediately useful content for me. I have also learned so much about language and tone, and this M.A. has given me the freedom to explore how we verbally express ourselves in the workplace.
+Over the course of my career, I have become increasingly aware of how companies approach documentation. This M.A. has given me the freedom to explore how we organise content in the workplace. I have learned about documentation architectures, topic-based writing (Baker 2013), and DITA. I am fascinated by the practice of treating documentation development in the same way as software code development. I have been leaning on my [DevOps](https://martinfowler.com/bliki/DevOpsCulture.html) background to apply continuous integration and deployment to the documentation process. The practices I have learned in these modules have been some of the most immediately useful content for me.
 
 ## The Fork in the Road
 
-In short, I found many things that I enjoy in this programme. These are things that energise me and fill up my battery. A little over halfway through the M.A., I decided to change direction. I’m unsure where the next stop is on this path, but I’m taking a break to find out.
+In short, I found many things that I enjoy in this programme. These are things that energise me and fill up my battery. A little over halfway through the M.A., I decided to fully commit to a new direction. I’m unsure where the next stop is on this path, but I’m taking a break to find out.
 
 ![PNG image illustrating a wooden path that forks in two directions](https://github.com/Sterling-Cooper/Sterling-Cooper.github.io/blob/main/_assets/ma-fork.png?raw=true)
 ##### Figure 2: Fork in the road (Canva/Backyard Productions n.d.).
